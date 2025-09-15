@@ -1,4 +1,0 @@
-numpy==1.26.4
-scikit-learn==1.4.2
-regex==2024.5.15
-pytest==8.4.2
