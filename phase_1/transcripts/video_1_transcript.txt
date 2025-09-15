@@ -1,0 +1,5033 @@
+WEBVTT
+
+1
+00:00:03.495 --> 00:00:05.235
+Hey, April Lynn, how are you?
+
+2
+00:00:06.395 --> 00:00:08.275
+I am doing well, thank you.
+
+3
+00:00:09.575 --> 00:00:13.635
+That's awesome. So, hi everyone. Uh, my name is Sie.
+
+4
+00:00:13.775 --> 00:00:16.035
+I'm a creator success manager at Spotter.
+
+5
+00:00:16.375 --> 00:00:17.755
+We are super, super stoked
+
+6
+00:00:17.755 --> 00:00:21.235
+to have April Lynn on today's webinar to teach us how
+
+7
+00:00:21.235 --> 00:00:22.675
+to make a killer intro.
+
+8
+00:00:23.095 --> 00:00:25.115
+So a little bit about April Lynn, I'll just,
+
+9
+00:00:25.235 --> 00:00:27.355
+I wrote a little bio about her, so I wanted to share it
+
+10
+00:00:27.355 --> 00:00:29.195
+with you guys, um, to introduce her.
+
+11
+00:00:29.215 --> 00:00:31.715
+And then I'll pass it off to April Lynn to take us through
+
+12
+00:00:31.715 --> 00:00:32.875
+what she has for us today.
+
+13
+00:00:32.975 --> 00:00:35.395
+But I'm excited to introduce April Lynn,
+
+14
+00:00:35.395 --> 00:00:37.355
+an amazing content creator, uh,
+
+15
+00:00:37.355 --> 00:00:39.875
+and YouTube strategist who's built a name for herself
+
+16
+00:00:39.935 --> 00:00:42.715
+by breaking down what actually works on YouTube.
+
+17
+00:00:42.775 --> 00:00:44.795
+So you guys are in for a treat today.
+
+18
+00:00:45.175 --> 00:00:48.435
+So she coins herself as just a girl who loves YouTube,
+
+19
+00:00:48.495 --> 00:00:50.635
+but we all know that you're more than that April Lyn.
+
+20
+00:00:51.095 --> 00:00:53.915
+Um, and today she's gonna be taking us through how
+
+21
+00:00:53.915 --> 00:00:54.915
+to make a killer intro
+
+22
+00:00:55.455 --> 00:00:56.995
+and this session, um,
+
+23
+00:00:56.995 --> 00:00:59.715
+she's gonna be talking about breaking down the psychology
+
+24
+00:01:00.095 --> 00:01:03.115
+and strategies behind the high retention videos
+
+25
+00:01:03.265 --> 00:01:04.835
+that keep viewers watching.
+
+26
+00:01:05.135 --> 00:01:07.555
+So April, Lynn, it's such a pleasure to have you on today
+
+27
+00:01:07.555 --> 00:01:08.715
+and I'm gonna pass it on to you.
+
+28
+00:01:09.725 --> 00:01:11.635
+Thank you so much for having me.
+
+29
+00:01:11.815 --> 00:01:15.115
+And hello everyone, super stoked. Talk about intros.
+
+30
+00:01:15.365 --> 00:01:18.315
+Lemme get started by just sharing my screen.
+
+31
+00:01:19.385 --> 00:01:21.975
+Let's go ahead and jump into that right now.
+
+32
+00:01:24.485 --> 00:01:29.085
+All right, everyone see everything? Perfect.
+
+33
+00:01:29.595 --> 00:01:30.845
+Well, hello.
+
+34
+00:01:31.355 --> 00:01:33.045
+Good morning or afternoon
+
+35
+00:01:33.065 --> 00:01:35.045
+or evening depending on where you're tuning in from.
+
+36
+00:01:35.565 --> 00:01:38.365
+Speaking of which, uh, okay.
+
+37
+00:01:38.575 --> 00:01:40.685
+Can't hear anything, I'm assuming I'm good though.
+
+38
+00:01:41.145 --> 00:01:44.525
+Um, but as you come in, go ahead and put in the chat.
+
+39
+00:01:44.905 --> 00:01:48.605
+So where, where you're from, how long you've been on YouTube
+
+40
+00:01:48.665 --> 00:01:51.205
+for, and on a scale of one to 10,
+
+41
+00:01:51.455 --> 00:01:53.765
+where would you rate your current confidence level
+
+42
+00:01:53.995 --> 00:01:55.845
+with YouTube intros?
+
+43
+00:01:56.665 --> 00:02:00.405
+Um, yeah, so as you've roll in, maybe as we can figure out,
+
+44
+00:02:00.705 --> 00:02:03.125
+uh, audio for Darren as well, just go ahead
+
+45
+00:02:03.125 --> 00:02:05.685
+and put your answers in the chat.
+
+46
+00:02:06.235 --> 00:02:10.365
+Love to hear. Four months. Wow. Awesome. 1.5 K followers.
+
+47
+00:02:10.365 --> 00:02:12.965
+That's amazing for four months. Great to see you Lael.
+
+48
+00:02:13.385 --> 00:02:16.685
+Uh, Cody. Hi, new Newfoundland, Canada. Wow.
+
+49
+00:02:16.925 --> 00:02:18.325
+I am assuming very cold.
+
+50
+00:02:18.405 --> 00:02:20.085
+I think you guys have gotten a lot of snow recently.
+
+51
+00:02:20.585 --> 00:02:22.725
+Um, two months, um,
+
+52
+00:02:22.905 --> 00:02:25.605
+and a scale of two when it comes to confidence.
+
+53
+00:02:25.605 --> 00:02:26.885
+Well, welcome to YouTube.
+
+54
+00:02:27.065 --> 00:02:29.605
+So glad to have you and hopefully we can get
+
+55
+00:02:29.605 --> 00:02:31.005
+that number a little bit higher
+
+56
+00:02:31.005 --> 00:02:32.685
+through the course of this workshop.
+
+57
+00:02:33.815 --> 00:02:38.565
+Great. I'm just going to set a little timer for myself so
+
+58
+00:02:39.125 --> 00:02:40.125
+I can keep myself on track.
+
+59
+00:02:40.385 --> 00:02:41.765
+And Edmonton, I don't know
+
+60
+00:02:41.765 --> 00:02:43.685
+where Edmonton is, but two-ish months.
+
+61
+00:02:43.685 --> 00:02:44.685
+Awesome. Great.
+
+62
+00:02:44.685 --> 00:02:49.325
+Another newcomer to, uh, to YouTube
+
+63
+00:02:49.505 --> 00:02:53.575
+and 150 is a bit over the scale,
+
+64
+00:02:53.875 --> 00:02:58.415
+so either incredibly confident with intros, uh, or a typo.
+
+65
+00:02:58.515 --> 00:02:59.685
+But welcome and again,
+
+66
+00:02:59.685 --> 00:03:01.805
+hopefully we can get these numbers a little bit higher
+
+67
+00:03:01.805 --> 00:03:03.885
+throughout the course of this workshop.
+
+68
+00:03:04.585 --> 00:03:07.685
+And we'll start off with some introductions,
+
+69
+00:03:08.345 --> 00:03:11.165
+but, uh, people introductions, not video introductions.
+
+70
+00:03:11.545 --> 00:03:13.485
+So, hi, I am April Lynn
+
+71
+00:03:13.785 --> 00:03:16.165
+and I've been on YouTube as a whole for three
+
+72
+00:03:16.165 --> 00:03:18.765
+and a half years at this point, which is kind of insane
+
+73
+00:03:18.785 --> 00:03:20.005
+to think about going on four.
+
+74
+00:03:20.585 --> 00:03:23.845
+And during this time I've started three channels, um,
+
+75
+00:03:23.875 --> 00:03:25.485
+brought in millions of views
+
+76
+00:03:26.065 --> 00:03:28.645
+and I feel like now I have the best job in the world,
+
+77
+00:03:28.645 --> 00:03:30.925
+which is essentially just getting to learn all about YouTube
+
+78
+00:03:30.945 --> 00:03:32.365
+and just share what I learn.
+
+79
+00:03:32.795 --> 00:03:36.045
+I've helped tens of thousands of creators on the strategies
+
+80
+00:03:36.045 --> 00:03:37.405
+that top YouTubers learn how to grow.
+
+81
+00:03:38.025 --> 00:03:41.605
+Um, and my videos, which depending on
+
+82
+00:03:41.605 --> 00:03:44.005
+how many YouTube strategy videos you tend
+
+83
+00:03:44.005 --> 00:03:45.885
+to watch in your personal time may
+
+84
+00:03:45.885 --> 00:03:47.765
+or may not have shown up on your YouTube recommended
+
+85
+00:03:47.945 --> 00:03:49.165
+at some point in the journey.
+
+86
+00:03:49.705 --> 00:03:54.045
+Um, these have circulated as training materials for some
+
+87
+00:03:54.045 --> 00:03:56.365
+of the teams of the biggest creators in the world, which is,
+
+88
+00:03:56.535 --> 00:03:58.045
+again, crazy to think about.
+
+89
+00:03:58.595 --> 00:04:00.325
+I've been told that some of these videos have served
+
+90
+00:04:00.325 --> 00:04:01.805
+as like the basis for frameworks
+
+91
+00:04:01.805 --> 00:04:03.045
+and standard operating procedures
+
+92
+00:04:03.045 --> 00:04:04.925
+that are adopted in some of these large teams.
+
+93
+00:04:05.665 --> 00:04:08.765
+But today I'm here to train you
+
+94
+00:04:09.425 --> 00:04:12.605
+and we're gonna be talking about the single most underrated
+
+95
+00:04:12.715 --> 00:04:16.085
+part of a YouTube video, which is the intro.
+
+96
+00:04:17.105 --> 00:04:19.845
+And this is the party video that tends
+
+97
+00:04:19.845 --> 00:04:21.525
+to see the largest drop off.
+
+98
+00:04:21.785 --> 00:04:23.765
+But if you can improve the retention
+
+99
+00:04:23.945 --> 00:04:25.805
+of these first 30 seconds, you'll
+
+100
+00:04:25.805 --> 00:04:26.885
+by default improve the retention
+
+101
+00:04:26.985 --> 00:04:28.525
+of the entire rest of your video.
+
+102
+00:04:29.185 --> 00:04:31.445
+And your intro is quite special
+
+103
+00:04:31.445 --> 00:04:33.925
+because it has the opportunity to make
+
+104
+00:04:34.145 --> 00:04:37.965
+or break your video even if the rest of the video is killer.
+
+105
+00:04:38.155 --> 00:04:40.685
+Because in order for someone to watch the rest of
+
+106
+00:04:40.685 --> 00:04:41.845
+that killer video, they have
+
+107
+00:04:41.845 --> 00:04:43.205
+to make it through your intro first.
+
+108
+00:04:43.625 --> 00:04:46.005
+And if they end up clicking off within the first 30 seconds,
+
+109
+00:04:46.755 --> 00:04:48.805
+then they won't stick around long enough
+
+110
+00:04:48.805 --> 00:04:52.285
+to experience the rest of this killer, beautiful,
+
+111
+00:04:52.395 --> 00:04:54.325
+amazing video that you have made.
+
+112
+00:04:54.945 --> 00:04:58.365
+So no pressure, right on those first 30 seconds.
+
+113
+00:04:58.985 --> 00:05:01.725
+Um, also Darren, so glad that you found the videos helpful.
+
+114
+00:05:02.505 --> 00:05:06.165
+So yeah, how can we get our intros right?
+
+115
+00:05:06.835 --> 00:05:09.125
+Well, there are many different ways to
+
+116
+00:05:09.725 --> 00:05:11.645
+approach crafting a killer YouTube intro,
+
+117
+00:05:11.665 --> 00:05:14.205
+but today we're gonna be covering a specific three
+
+118
+00:05:14.275 --> 00:05:15.365
+step intro formula.
+
+119
+00:05:16.385 --> 00:05:19.525
+And this formula has helped countless creators get
+
+120
+00:05:19.545 --> 00:05:20.565
+one of tens in their videos.
+
+121
+00:05:20.755 --> 00:05:21.885
+It's helped them hit six
+
+122
+00:05:21.885 --> 00:05:23.365
+or seven figure view counts,
+
+123
+00:05:23.365 --> 00:05:25.165
+has even helped channels become monetized.
+
+124
+00:05:25.585 --> 00:05:27.325
+And it's a formula that can be applied
+
+125
+00:05:27.425 --> 00:05:29.685
+to any video type across any niche.
+
+126
+00:05:30.075 --> 00:05:32.285
+Once you learn it, you can use it to write intros for
+
+127
+00:05:32.845 --> 00:05:35.325
+challenges, for tutorials, for vlogs, for video essays,
+
+128
+00:05:35.325 --> 00:05:37.445
+really for anything that you want.
+
+129
+00:05:38.185 --> 00:05:41.965
+And because the best way to learn is by doing today.
+
+130
+00:05:41.965 --> 00:05:43.485
+We're not just gonna be learning the theory
+
+131
+00:05:43.485 --> 00:05:45.005
+behind making killer intro,
+
+132
+00:05:45.945 --> 00:05:48.885
+but we're going to write an intro together
+
+133
+00:05:49.825 --> 00:05:51.405
+in this workshop today.
+
+134
+00:05:52.405 --> 00:05:55.865
+And now, if you weren't prepared for this surprise,
+
+135
+00:05:56.125 --> 00:05:58.285
+if you just thought, eh, I'm just gonna sit back, relax,
+
+136
+00:05:58.465 --> 00:06:01.045
+listen to April and talk, no, I'm going to make you work.
+
+137
+00:06:01.425 --> 00:06:03.365
+Uh, but we're gonna have a fun time doing it
+
+138
+00:06:03.365 --> 00:06:05.365
+and we're going to learn a lot along the way.
+
+139
+00:06:06.265 --> 00:06:08.445
+And it all starts with
+
+140
+00:06:09.145 --> 00:06:11.645
+the first five seconds of your video.
+
+141
+00:06:12.575 --> 00:06:16.635
+Now to minimize drop off from the very get go,
+
+142
+00:06:16.985 --> 00:06:18.035
+your first five seconds.
+
+143
+00:06:18.095 --> 00:06:19.635
+So what we're talking about, the first sentence
+
+144
+00:06:19.635 --> 00:06:23.075
+of your intro should meet the expectations set
+
+145
+00:06:23.175 --> 00:06:24.515
+by your title and thumbnail.
+
+146
+00:06:25.025 --> 00:06:27.035
+What does that mean? What does that look like?
+
+147
+00:06:27.745 --> 00:06:31.155
+Well, luckily for us, there's a very one simple tried
+
+148
+00:06:31.155 --> 00:06:34.035
+and true method for doing this, which is simply
+
+149
+00:06:34.255 --> 00:06:37.115
+to match your first sentence with your title.
+
+150
+00:06:37.695 --> 00:06:38.955
+Um, to show you what I mean,
+
+151
+00:06:38.965 --> 00:06:40.275
+let's take a look at an example.
+
+152
+00:06:40.975 --> 00:06:43.605
+So this is a YouTube video
+
+153
+00:06:44.275 --> 00:06:46.165
+from you all recognize him, Mr.
+
+154
+00:06:46.175 --> 00:06:50.285
+Beast. And it's titled, beat Ronaldo Win $1 million.
+
+155
+00:06:50.865 --> 00:06:53.165
+Now as you're looking at this, you as a viewer can start
+
+156
+00:06:53.165 --> 00:06:55.085
+to picture, well, what do you, what sort
+
+157
+00:06:55.085 --> 00:06:58.365
+of expectations do you have when looking at this packaging,
+
+158
+00:06:58.365 --> 00:06:59.765
+when looking at this title and thumbnail?
+
+159
+00:06:59.915 --> 00:07:01.885
+What do you expect the video is going to be about?
+
+160
+00:07:02.665 --> 00:07:06.565
+And keep those expectations in mind as we go into,
+
+161
+00:07:08.025 --> 00:07:10.055
+don't see my, don't see my shared screen.
+
+162
+00:07:11.815 --> 00:07:15.155
+Um, have you seen my presentation this whole time?
+
+163
+00:07:16.625 --> 00:07:20.485
+No, I, oh, okay. Sorry. No, people see it. I don't see it.
+
+164
+00:07:20.525 --> 00:07:22.245
+I mean, 'cause I'm a cohost with you,
+
+165
+00:07:22.265 --> 00:07:24.525
+but I was just making sure that everybody saw it.
+
+166
+00:07:24.525 --> 00:07:26.405
+Okay, if everyone sees it, that is fantastic.
+
+167
+00:07:27.395 --> 00:07:30.325
+Perfect. Um, great, glad people can see that.
+
+168
+00:07:30.505 --> 00:07:32.765
+So yeah, keep those expectations in mind
+
+169
+00:07:33.385 --> 00:07:36.885
+as we take a look at the first sentence.
+
+170
+00:07:37.885 --> 00:07:41.025
+If, if this subscriber can be Ronaldo in a one v one,
+
+171
+00:07:41.325 --> 00:07:43.105
+I'm going to give him a million dollars.
+
+172
+00:07:44.335 --> 00:07:46.145
+Alright, that's the first sentence.
+
+173
+00:07:46.295 --> 00:07:49.425
+What do we think if this and what do we have here?
+
+174
+00:07:49.685 --> 00:07:51.985
+So in one sentence, we have,
+
+175
+00:07:52.405 --> 00:07:54.785
+if this subscriber can beat Ronaldo in a one v one,
+
+176
+00:07:54.925 --> 00:07:56.345
+I'm going to give him a million dollars.
+
+177
+00:07:56.725 --> 00:07:57.745
+Pretty straightforward.
+
+178
+00:07:57.965 --> 00:08:00.425
+But he clearly meets the expectations set
+
+179
+00:08:00.725 --> 00:08:02.145
+by the title and thumbnail.
+
+180
+00:08:02.285 --> 00:08:03.625
+We clearly immediately get,
+
+181
+00:08:03.625 --> 00:08:05.305
+if someone clicked on this video from Mr.
+
+182
+00:08:05.305 --> 00:08:08.705
+Beast, they see, they hear this very first sentence,
+
+183
+00:08:08.745 --> 00:08:11.065
+they're gonna be like, heck freaking, yeah,
+
+184
+00:08:11.065 --> 00:08:12.505
+this is exactly what I came for.
+
+185
+00:08:12.505 --> 00:08:13.745
+This is exactly what I want.
+
+186
+00:08:13.855 --> 00:08:15.705
+They have no reason to click off at this point.
+
+187
+00:08:15.705 --> 00:08:16.945
+They're going to keep watching.
+
+188
+00:08:17.675 --> 00:08:20.295
+So I know this one matches pretty similarly
+
+189
+00:08:20.405 --> 00:08:21.535
+with the title here,
+
+190
+00:08:21.715 --> 00:08:23.095
+but let's take a look at another example.
+
+191
+00:08:23.765 --> 00:08:26.295
+This is a video from Answer in Progress.
+
+192
+00:08:26.795 --> 00:08:29.575
+Um, and the title here is Why Women's Pockets are Useless,
+
+193
+00:08:29.625 --> 00:08:31.695
+which I mean, preach absolutely
+
+194
+00:08:31.865 --> 00:08:33.455
+great question in certain progress.
+
+195
+00:08:33.955 --> 00:08:37.375
+Uh, so let's take a look at the first sentence
+
+196
+00:08:37.875 --> 00:08:39.455
+of their video.
+
+197
+00:08:42.655 --> 00:08:44.585
+Women's Pockets, if they even exist,
+
+198
+00:08:44.735 --> 00:08:47.625
+they are usually too small to hold anything useful.
+
+199
+00:08:48.845 --> 00:08:50.265
+All right, what do we have here?
+
+200
+00:08:51.015 --> 00:08:54.625
+Well, women's pockets, if they exist, are usually too small
+
+201
+00:08:54.625 --> 00:08:57.485
+to hold anything useful as you can see in order
+
+202
+00:08:57.485 --> 00:08:58.925
+to meet the expectations set by their title
+
+203
+00:08:58.925 --> 00:09:01.565
+and thumbnail you in your first seconds,
+
+204
+00:09:01.665 --> 00:09:03.605
+you don't in your first five seconds, you don't have
+
+205
+00:09:03.605 --> 00:09:06.485
+to like match your title word for word,
+
+206
+00:09:07.225 --> 00:09:09.285
+but it should be close enough so
+
+207
+00:09:09.285 --> 00:09:10.765
+that if someone sees a title
+
+208
+00:09:10.765 --> 00:09:13.405
+and thumbnail that they like, they click into it
+
+209
+00:09:13.745 --> 00:09:16.925
+and they feel like, oh, this is the video that I expected.
+
+210
+00:09:16.995 --> 00:09:18.685
+This is the video that I was promised.
+
+211
+00:09:18.915 --> 00:09:20.845
+This is a video that feels worth watching.
+
+212
+00:09:21.075 --> 00:09:22.645
+Because let's say for instance,
+
+213
+00:09:22.645 --> 00:09:25.845
+you're making a video about bullet journaling for 30 days.
+
+214
+00:09:26.385 --> 00:09:28.885
+If your first sentence doesn't mention the word bullet
+
+215
+00:09:28.885 --> 00:09:31.805
+journal or the word 30 days, people are either going
+
+216
+00:09:32.005 --> 00:09:33.405
+to get confused or we'll assume
+
+217
+00:09:33.405 --> 00:09:34.845
+that your video is full of fluff.
+
+218
+00:09:35.065 --> 00:09:36.845
+And so they're going to click off.
+
+219
+00:09:37.905 --> 00:09:40.645
+The goal is to mention enough main action words
+
+220
+00:09:40.785 --> 00:09:43.485
+of your title to assure your viewers that your title
+
+221
+00:09:43.485 --> 00:09:45.205
+and thumbnail wasn't, wasn't click bait,
+
+222
+00:09:45.235 --> 00:09:46.845
+that they will receive what they clicked for.
+
+223
+00:09:47.265 --> 00:09:50.165
+And also so that when they hop in, they know
+
+224
+00:09:50.165 --> 00:09:52.405
+that you are going to respect their time.
+
+225
+00:09:52.555 --> 00:09:54.605
+It's going to be a video that gives 'em what they promise,
+
+226
+00:09:54.715 --> 00:09:56.045
+what, what, what, what was promised,
+
+227
+00:09:56.385 --> 00:10:00.405
+and do so in a way that doesn't have a lot of extra stuff do
+
+228
+00:10:00.405 --> 00:10:01.525
+so in a way that's effective
+
+229
+00:10:01.705 --> 00:10:02.885
+and doing so in a way that again,
+
+230
+00:10:02.885 --> 00:10:04.645
+respects their time as a viewer.
+
+231
+00:10:05.495 --> 00:10:07.875
+So essentially to the title should summarize
+
+232
+00:10:07.875 --> 00:10:09.235
+or state the promise purpose,
+
+233
+00:10:10.195 --> 00:10:11.635
+absolutely Cody, a hundred percent.
+
+234
+00:10:12.375 --> 00:10:17.135
+And as you might realize, in order to write a sentence that
+
+235
+00:10:18.025 --> 00:10:19.855
+meets the expectations set by the title
+
+236
+00:10:19.855 --> 00:10:22.415
+and thumbnail, you need to have a title
+
+237
+00:10:22.415 --> 00:10:24.455
+and thumbnail in the first place.
+
+238
+00:10:24.875 --> 00:10:26.815
+Um, la I still, I'll I see your question.
+
+239
+00:10:26.815 --> 00:10:27.935
+I'll get to that in a sec.
+
+240
+00:10:28.475 --> 00:10:29.415
+So you need to have a title and
+
+241
+00:10:29.415 --> 00:10:30.255
+thumbnail set in the first place.
+
+242
+00:10:30.475 --> 00:10:33.495
+And this is by design.
+
+243
+00:10:34.075 --> 00:10:35.935
+And I don't know if this is a hot take,
+
+244
+00:10:35.935 --> 00:10:38.175
+but this is where I personally stand and what I've seen.
+
+245
+00:10:38.755 --> 00:10:41.055
+So many people have improved their intros
+
+246
+00:10:41.055 --> 00:10:42.415
+and by default, their retention, their videos
+
+247
+00:10:42.995 --> 00:10:44.495
+is working on the title
+
+248
+00:10:44.555 --> 00:10:46.815
+and thumbnail First, if you don't have a good title
+
+249
+00:10:46.815 --> 00:10:48.135
+and thumbnail set to begin with,
+
+250
+00:10:48.835 --> 00:10:50.735
+you shouldn't be working on your intro yet,
+
+251
+00:10:51.035 --> 00:10:52.855
+and I'll explain why.
+
+252
+00:10:53.315 --> 00:10:55.815
+So on YouTube, having a killer title
+
+253
+00:10:55.815 --> 00:10:58.855
+and thumbnail, having a clickable packaging is
+
+254
+00:10:59.075 --> 00:11:01.215
+so incredibly important in order to get clicks.
+
+255
+00:11:01.215 --> 00:11:02.815
+If people don't click, people won't watch.
+
+256
+00:11:03.715 --> 00:11:07.375
+And what I often see is people will have an idea for a video
+
+257
+00:11:07.635 --> 00:11:10.895
+and then start off as most people do, by writing the intro
+
+258
+00:11:10.895 --> 00:11:11.935
+and writing the rest of their script.
+
+259
+00:11:12.395 --> 00:11:15.695
+But in doing so, you, your packaging, your title
+
+260
+00:11:15.695 --> 00:11:17.815
+and thumbnail is then locked in
+
+261
+00:11:18.195 --> 00:11:21.255
+to whatever angle you've already written into your intro.
+
+262
+00:11:22.125 --> 00:11:23.935
+Instead of what you should do is think about
+
+263
+00:11:23.935 --> 00:11:26.455
+what is the most clickable title and thumbnail I can make.
+
+264
+00:11:26.505 --> 00:11:29.375
+First draft up that title and thumbnail
+
+265
+00:11:29.595 --> 00:11:31.975
+and then use that to write your intro,
+
+266
+00:11:32.445 --> 00:11:36.095
+because again, that's how, that's for better or for worse.
+
+267
+00:11:36.095 --> 00:11:37.455
+YouTube is a game of clicks,
+
+268
+00:11:37.455 --> 00:11:39.935
+especially on long term YouTube, long form YouTube,
+
+269
+00:11:40.275 --> 00:11:42.695
+and you can only get that click if you focus on the title
+
+270
+00:11:42.695 --> 00:11:44.335
+and thumbnail in the first place.
+
+271
+00:11:45.155 --> 00:11:48.095
+Um, I'll get to your question now, which is,
+
+272
+00:11:48.095 --> 00:11:49.215
+how does this play into the new theory
+
+273
+00:11:49.215 --> 00:11:51.055
+of having shock hook slash counter hooks?
+
+274
+00:11:51.845 --> 00:11:55.955
+It's, I will say that
+
+275
+00:11:56.525 --> 00:11:59.075
+again, there are different ways to make an intro.
+
+276
+00:11:59.785 --> 00:12:03.795
+This is the formula that I've seen is the most consistent in
+
+277
+00:12:03.795 --> 00:12:06.035
+keeping retention up throughout a wide
+
+278
+00:12:06.045 --> 00:12:07.315
+range of different videos.
+
+279
+00:12:07.685 --> 00:12:10.115
+There are for sure other types of videos
+
+280
+00:12:10.855 --> 00:12:12.715
+and other types of intro, like there are
+
+281
+00:12:12.795 --> 00:12:14.115
+for sure other types of intros,
+
+282
+00:12:14.255 --> 00:12:16.715
+but those tend to be easier to get wrong.
+
+283
+00:12:17.315 --> 00:12:20.075
+I think in general, what I recommend is like learning the
+
+284
+00:12:20.075 --> 00:12:22.715
+formula first and then afterwards you can
+
+285
+00:12:23.415 --> 00:12:24.515
+try out different things.
+
+286
+00:12:25.055 --> 00:12:27.835
+But for the most part, even with like a counter hook,
+
+287
+00:12:27.835 --> 00:12:32.155
+you don't wanna, like subverting expectations exists
+
+288
+00:12:32.615 --> 00:12:35.475
+as long as you imply that those expectations are there
+
+289
+00:12:35.475 --> 00:12:36.675
+to begin with, right?
+
+290
+00:12:36.675 --> 00:12:39.395
+Because if you start, let's say a video about bullet
+
+291
+00:12:39.395 --> 00:12:42.675
+journaling and you start off by saying, you know,
+
+292
+00:12:42.675 --> 00:12:46.685
+something like, yeah, like, uh, you know,
+
+293
+00:12:47.065 --> 00:12:48.205
+if you start off by saying,
+
+294
+00:12:48.475 --> 00:12:50.965
+I've never been good at journaling, great
+
+295
+00:12:50.965 --> 00:12:53.245
+that subverts expectations in a way,
+
+296
+00:12:53.305 --> 00:12:55.845
+but still, del still delivers on that promise,
+
+297
+00:12:55.945 --> 00:12:57.485
+you still know what you're going to be talking about.
+
+298
+00:12:57.485 --> 00:13:00.805
+Versus you start by saying, so today I decided
+
+299
+00:13:00.805 --> 00:13:01.885
+to go out and grab some coffee.
+
+300
+00:13:02.115 --> 00:13:04.125
+It's like people will jump in
+
+301
+00:13:04.125 --> 00:13:05.725
+and be like, this, this isn't what I clicked on,
+
+302
+00:13:05.725 --> 00:13:06.765
+this isn't what I expected.
+
+303
+00:13:06.785 --> 00:13:09.125
+And will then click off. Hopefully
+
+304
+00:13:09.205 --> 00:13:10.325
+that answers your question.
+
+305
+00:13:10.345 --> 00:13:12.525
+And yeah, feel free to just ask more questions
+
+306
+00:13:13.025 --> 00:13:14.205
+as we go along as well.
+
+307
+00:13:14.635 --> 00:13:16.965
+I'll have time for questions at the end of course,
+
+308
+00:13:17.265 --> 00:13:20.245
+but yeah, absolutely love to answer those as we go through.
+
+309
+00:13:21.205 --> 00:13:26.105
+So with all that being said, let's write
+
+310
+00:13:26.845 --> 00:13:29.305
+the first sentence of our intro.
+
+311
+00:13:29.525 --> 00:13:31.625
+Yes, we are doing this and we are doing this together.
+
+312
+00:13:32.565 --> 00:13:36.865
+And to make things simple, I'm going to assign you a title
+
+313
+00:13:36.885 --> 00:13:40.065
+and thumbnail to go off of, just so you don't have
+
+314
+00:13:40.065 --> 00:13:41.945
+to come up with quite so many things in this moment.
+
+315
+00:13:41.945 --> 00:13:43.145
+You don't have to come up with like a title
+
+316
+00:13:43.145 --> 00:13:45.225
+and thumbnail off the top of your head.
+
+317
+00:13:45.565 --> 00:13:47.825
+And again, once you write this intro once
+
+318
+00:13:47.825 --> 00:13:50.705
+and understand the formula, you'll be able to apply it
+
+319
+00:13:50.765 --> 00:13:52.705
+to any format in the future that you want.
+
+320
+00:13:53.095 --> 00:13:55.185
+That being, that being said, if you do have a title
+
+321
+00:13:55.185 --> 00:13:57.065
+and thumbnail of your own that you wanna work off of,
+
+322
+00:13:57.335 --> 00:13:58.905
+that is completely fine.
+
+323
+00:13:59.005 --> 00:14:01.105
+100%, absolutely. Go for it.
+
+324
+00:14:01.445 --> 00:14:02.585
+Um, or if you have like a title
+
+325
+00:14:02.585 --> 00:14:04.145
+and thumbnail in the past that you've done
+
+326
+00:14:04.145 --> 00:14:06.825
+that you wanna write an intro for, go for it as well.
+
+327
+00:14:07.245 --> 00:14:10.385
+Uh, but the example that I'll be walking through
+
+328
+00:14:10.405 --> 00:14:13.705
+and I invite you to work off of if you would like, is this,
+
+329
+00:14:14.075 --> 00:14:18.345
+which is, I walked 30,000 steps a day for 30 days.
+
+330
+00:14:18.885 --> 00:14:20.545
+Now this concept was taken from up
+
+331
+00:14:20.545 --> 00:14:22.145
+and coming creator Macari Espy,
+
+332
+00:14:22.145 --> 00:14:24.905
+who has absolutely been crushing it on YouTube,
+
+333
+00:14:24.965 --> 00:14:27.705
+and you should all definitely go check out her content on
+
+334
+00:14:27.705 --> 00:14:30.265
+YouTube if you haven't already, it's a banger.
+
+335
+00:14:30.805 --> 00:14:34.465
+Um, and we're going to write the first sentence of the intro
+
+336
+00:14:34.525 --> 00:14:38.735
+for this video, and I'm gonna give you 90 seconds
+
+337
+00:14:38.955 --> 00:14:41.935
+to write the first sentence, which is luxury, 90 seconds
+
+338
+00:14:42.075 --> 00:14:45.815
+for a single 90 seconds for a single sentence luxury.
+
+339
+00:14:46.595 --> 00:14:47.735
+And as you go ahead
+
+340
+00:14:47.735 --> 00:14:49.535
+and write the sentence, keep in mind
+
+341
+00:14:50.395 --> 00:14:52.955
+how can you meet the expectations set
+
+342
+00:14:53.015 --> 00:14:54.315
+by the title and thumbnail.
+
+343
+00:14:54.315 --> 00:14:56.075
+If you look at this packaging, look at this title
+
+344
+00:14:56.295 --> 00:14:57.315
+and look at the thumbnail.
+
+345
+00:14:58.145 --> 00:14:59.155
+What are you expecting
+
+346
+00:14:59.155 --> 00:15:00.875
+and how can you meet those expectations
+
+347
+00:15:01.535 --> 00:15:02.755
+in the first sentence
+
+348
+00:15:03.505 --> 00:15:05.845
+before we get into the 90 seconds, any
+
+349
+00:15:06.525 --> 00:15:09.005
+questions about what's being asked of you?
+
+350
+00:15:09.005 --> 00:15:10.005
+And what we're going to do,
+
+351
+00:15:15.205 --> 00:15:19.095
+I'll hold, I'll hold, wait
+
+352
+00:15:19.095 --> 00:15:20.295
+to see if people have questions.
+
+353
+00:15:21.665 --> 00:15:24.525
+Um, we're good. Okay, great.
+
+354
+00:15:24.665 --> 00:15:27.045
+I'm like, okay, either people are asleep
+
+355
+00:15:27.225 --> 00:15:29.885
+or I'm a great teacher, so I'm gonna assume the latter
+
+356
+00:15:30.505 --> 00:15:32.045
+and we're gonna go for it.
+
+357
+00:15:32.105 --> 00:15:34.245
+So I will see you all in 30 seconds.
+
+358
+00:15:34.245 --> 00:15:36.685
+There's gonna be a little chime when we have
+
+359
+00:15:36.785 --> 00:15:37.965
+30 seconds left.
+
+360
+00:15:38.505 --> 00:15:39.925
+Um, and go for it.
+
+361
+00:15:50.065 --> 00:15:51.165
+Uh, you can go ahead
+
+362
+00:15:51.165 --> 00:15:53.845
+and type in there absolutely, if you would like to.
+
+363
+00:17:11.115 --> 00:17:12.855
+All right, welcome back.
+
+364
+00:17:12.925 --> 00:17:14.855
+Hopefully people have had enough time
+
+365
+00:17:14.855 --> 00:17:17.735
+to write their sentence and I see some people already in the
+
+366
+00:17:17.735 --> 00:17:19.935
+chat, uh, putting their sentences in, which I love.
+
+367
+00:17:19.955 --> 00:17:21.535
+If you're feeling brave, go ahead
+
+368
+00:17:21.535 --> 00:17:23.575
+and put your, your first sentence in the chat.
+
+369
+00:17:23.635 --> 00:17:25.655
+If you're working off of a different title
+
+370
+00:17:25.715 --> 00:17:28.575
+or thumbnail, just drop the title that you're working off of
+
+371
+00:17:28.595 --> 00:17:29.655
+and then your first sentence.
+
+372
+00:17:30.115 --> 00:17:32.455
+Um, but let's take a look at what we've got.
+
+373
+00:17:33.155 --> 00:17:37.455
+So first up, I see Lionel saying, I never thought
+
+374
+00:17:37.455 --> 00:17:40.015
+that walking 30,000 steps a day would not only change my
+
+375
+00:17:40.015 --> 00:17:41.575
+health, but change my happiness too.
+
+376
+00:17:42.315 --> 00:17:46.855
+So I like the first part of that.
+
+377
+00:17:47.355 --> 00:17:51.245
+My feedback there would be change my health,
+
+378
+00:17:51.385 --> 00:17:55.165
+but change my happiness too is just a little bit vague.
+
+379
+00:17:56.125 --> 00:18:00.455
+I think that for your first sentence, you want to be more
+
+380
+00:18:01.215 --> 00:18:03.935
+concrete so people know what they're going to expect.
+
+381
+00:18:04.315 --> 00:18:06.495
+So like, change my health, change my happiness.
+
+382
+00:18:06.495 --> 00:18:08.695
+Like what does that really mean?
+
+383
+00:18:09.055 --> 00:18:11.215
+I would just be a little bit more concrete there.
+
+384
+00:18:11.915 --> 00:18:15.695
+Um, so you also tried going from walking one K
+
+385
+00:18:15.715 --> 00:18:18.335
+to 30 KI would say steps per day
+
+386
+00:18:18.875 --> 00:18:22.175
+in there seemed impossible until I tried this one thing.
+
+387
+00:18:22.735 --> 00:18:25.615
+I I do, I do like that,
+
+388
+00:18:25.615 --> 00:18:27.415
+that gets into the point really quickly.
+
+389
+00:18:27.735 --> 00:18:30.415
+I see that being a different type of video, so like less
+
+390
+00:18:30.415 --> 00:18:31.415
+so like a challenge more
+
+391
+00:18:31.415 --> 00:18:33.295
+so maybe like an educational video there.
+
+392
+00:18:34.015 --> 00:18:36.695
+I think that could work as a first sentence. Absolutely.
+
+393
+00:18:37.195 --> 00:18:41.775
+Um, I see Darren's, I walked 30,000 steps a day for 30 days
+
+394
+00:18:41.915 --> 00:18:43.495
+and lost 10 pounds remarkably.
+
+395
+00:18:44.035 --> 00:18:46.895
+So the thing with the first sentence as well,
+
+396
+00:18:47.005 --> 00:18:51.255
+what I'm seeing here is that you are teasing the payoff
+
+397
+00:18:51.255 --> 00:18:52.735
+or like you're giving them the payoff.
+
+398
+00:18:53.515 --> 00:18:57.915
+I would say far too early, the the, when I say payoff,
+
+399
+00:18:58.305 --> 00:19:00.915
+there's this concept called like set up tension payoff,
+
+400
+00:19:00.915 --> 00:19:03.595
+where you want to set up something that happens
+
+401
+00:19:04.175 --> 00:19:06.075
+and then have tension building
+
+402
+00:19:06.255 --> 00:19:08.435
+and then you pay off what it is that happens.
+
+403
+00:19:08.975 --> 00:19:10.075
+Losing 10 pounds
+
+404
+00:19:10.125 --> 00:19:12.075
+after a challenge like this would be
+
+405
+00:19:12.595 --> 00:19:13.955
+a pretty remarkable payoff.
+
+406
+00:19:13.955 --> 00:19:15.435
+That's amazing. So
+
+407
+00:19:15.545 --> 00:19:18.435
+what I would do is I wouldn't exactly list what that is yet.
+
+408
+00:19:19.015 --> 00:19:22.435
+Um, but I would say maybe something along along the lines
+
+409
+00:19:22.435 --> 00:19:25.995
+of like, I walked 30 steps a day for 30 days
+
+410
+00:19:26.975 --> 00:19:30.795
+and uh, you know, like I I, I walked thir
+
+411
+00:19:31.535 --> 00:19:34.755
+30,000 steps a day for 30 days to see what it would do
+
+412
+00:19:34.755 --> 00:19:35.795
+to my body, right?
+
+413
+00:19:35.795 --> 00:19:38.555
+And so then you kind of set up the promise of this is
+
+414
+00:19:38.555 --> 00:19:41.475
+what you did, meet the expectations set by, by your titles
+
+415
+00:19:41.475 --> 00:19:45.235
+and thumbnails and then also set up starting the reason why,
+
+416
+00:19:45.305 --> 00:19:47.475
+like what is going to happen because of that.
+
+417
+00:19:48.255 --> 00:19:51.235
+Um, I'll go through one more, which is
+
+418
+00:19:51.785 --> 00:19:53.555
+walking 30,000 steps a day was
+
+419
+00:19:53.555 --> 00:19:54.755
+so much harder than I thought.
+
+420
+00:20:00.995 --> 00:20:05.925
+Hmm. I think like with, with that one,
+
+421
+00:20:06.355 --> 00:20:10.925
+what I would say is we're not quite getting
+
+422
+00:20:11.245 --> 00:20:12.525
+a clear enough reason to click,
+
+423
+00:20:12.525 --> 00:20:15.605
+and we're going to get into reasons to click like,
+
+424
+00:20:15.605 --> 00:20:18.485
+not like reasons to keep watching in the next section
+
+425
+00:20:18.535 --> 00:20:19.645
+after the first sentence.
+
+426
+00:20:20.025 --> 00:20:24.045
+But when I see this, again, the con the concept of promise
+
+427
+00:20:24.745 --> 00:20:26.085
+or like set up tension
+
+428
+00:20:26.185 --> 00:20:30.005
+and payoff, the was so much harder than I thought.
+
+429
+00:20:30.585 --> 00:20:33.045
+For you, that's like a clear reason to keep watching, right?
+
+430
+00:20:33.045 --> 00:20:34.885
+You like wanna see what your own emotional
+
+431
+00:20:34.955 --> 00:20:36.725
+turmoil was during this time.
+
+432
+00:20:37.065 --> 00:20:39.485
+But for a random viewer, you have to think of everything
+
+433
+00:20:39.485 --> 00:20:42.045
+through the lens of like, what did this person has no
+
+434
+00:20:42.045 --> 00:20:44.245
+context into who you are, what you do,
+
+435
+00:20:44.245 --> 00:20:45.845
+what your journey is, or anything else like that.
+
+436
+00:20:46.475 --> 00:20:48.005
+They could see a sentence like that
+
+437
+00:20:48.665 --> 00:20:51.165
+and think, oh, like this video is just going
+
+438
+00:20:51.165 --> 00:20:53.285
+to talk about like, you know, their,
+
+439
+00:20:53.335 --> 00:20:55.125
+their own personal struggles,
+
+440
+00:20:55.175 --> 00:20:57.085
+which might not be a compelling enough
+
+441
+00:20:57.085 --> 00:20:58.205
+reason for them to watch.
+
+442
+00:20:58.825 --> 00:21:01.245
+So I think in that case, maybe a way
+
+443
+00:21:01.245 --> 00:21:04.165
+that I would rephrase it would be something along the lines
+
+444
+00:21:04.265 --> 00:21:08.705
+of, um, you know, like I walked,
+
+445
+00:21:09.065 --> 00:21:12.985
+I walked 30,000 steps a day for 30 days
+
+446
+00:21:14.185 --> 00:21:17.445
+to see if and then have a reason.
+
+447
+00:21:17.705 --> 00:21:19.965
+And then after that say like, it was
+
+448
+00:21:19.965 --> 00:21:21.125
+so much harder than I thought.
+
+449
+00:21:21.385 --> 00:21:23.325
+And then kind of continue with the rest of the intro.
+
+450
+00:21:23.745 --> 00:21:26.565
+But we'll get into that more in the next section.
+
+451
+00:21:27.185 --> 00:21:30.805
+Um, but great job so far, guys.
+
+452
+00:21:30.945 --> 00:21:34.885
+Um, I love that we like are immediately like the, the
+
+453
+00:21:34.885 --> 00:21:38.245
+through line here is having the words like the main action
+
+454
+00:21:38.245 --> 00:21:40.205
+words of the title into the intro.
+
+455
+00:21:40.825 --> 00:21:42.685
+Um, great,
+
+456
+00:21:44.225 --> 00:21:46.375
+let's, I'm gonna show you mine.
+
+457
+00:21:46.955 --> 00:21:51.455
+So this was my example, which is this is a step
+
+458
+00:21:51.555 --> 00:21:54.055
+and over the next 30 days I'll be doing 30,000
+
+459
+00:21:54.055 --> 00:21:55.175
+of them per day.
+
+460
+00:21:55.955 --> 00:21:59.635
+So what do we have here? Well, we have a mention of 30 days.
+
+461
+00:21:59.655 --> 00:22:00.995
+We have a mention of 30,000 steps.
+
+462
+00:22:01.615 --> 00:22:04.435
+So any viewer who is interested enough in the title
+
+463
+00:22:04.435 --> 00:22:06.995
+and thumbnail to click on this video is now satisfied
+
+464
+00:22:06.995 --> 00:22:08.275
+knowing that they're going to get
+
+465
+00:22:08.275 --> 00:22:09.435
+exactly what they came for.
+
+466
+00:22:10.215 --> 00:22:13.195
+Um, it's pretty straightforward, pretty simple,
+
+467
+00:22:13.575 --> 00:22:14.675
+and it's all out there.
+
+468
+00:22:15.335 --> 00:22:18.835
+Now in one sentence, you shouldn't have had too much room
+
+469
+00:22:18.835 --> 00:22:22.155
+to get into too much trouble yet with this other problem
+
+470
+00:22:22.465 --> 00:22:25.435
+that typically happens in intros, which is that we tend
+
+471
+00:22:25.435 --> 00:22:27.475
+to try to do too much in an intro.
+
+472
+00:22:27.475 --> 00:22:29.595
+We try, we tend to try to put, we tend to try
+
+473
+00:22:29.595 --> 00:22:32.115
+to put too much in intros when it comes
+
+474
+00:22:32.175 --> 00:22:34.075
+to the length of your intro.
+
+475
+00:22:36.125 --> 00:22:38.475
+While it does vary from YouTube to YouTuber,
+
+476
+00:22:38.655 --> 00:22:41.475
+you typically wanna keep it between 20
+
+477
+00:22:41.815 --> 00:22:43.995
+to 40 seconds long, maximum.
+
+478
+00:22:45.125 --> 00:22:49.155
+Often the shorter on that spectrum, your intro is the better
+
+479
+00:22:49.155 --> 00:22:52.875
+because you know, TikTok attention spans baby.
+
+480
+00:22:53.025 --> 00:22:54.635
+Like people are impatient
+
+481
+00:22:54.855 --> 00:22:57.435
+and they want to get, they want the v the video to start
+
+482
+00:22:57.455 --> 00:22:59.435
+as soon as possible.
+
+483
+00:23:00.215 --> 00:23:03.635
+And usually this 20 to 40, uh,
+
+484
+00:23:03.775 --> 00:23:06.675
+second time constraint translates to around five
+
+485
+00:23:06.695 --> 00:23:09.075
+to seven sentences long for an intro.
+
+486
+00:23:09.775 --> 00:23:11.955
+And good news is we've already written
+
+487
+00:23:12.095 --> 00:23:13.395
+one sentence together.
+
+488
+00:23:13.885 --> 00:23:16.475
+Great. Now let's move on to the rest of the intro.
+
+489
+00:23:17.095 --> 00:23:20.475
+In the remaining four to six sentences that we have left,
+
+490
+00:23:20.885 --> 00:23:22.555
+we're going to need to do three things.
+
+491
+00:23:23.525 --> 00:23:27.195
+We're going to provide context, we're going to create one
+
+492
+00:23:27.195 --> 00:23:28.435
+or more curiosity gaps,
+
+493
+00:23:28.895 --> 00:23:31.595
+and we're going to leverage something called input bias,
+
+494
+00:23:31.595 --> 00:23:33.755
+which is one of my favorite things to do in an intro.
+
+495
+00:23:34.285 --> 00:23:37.995
+We'll get there, but for now we're gonna start with context.
+
+496
+00:23:39.605 --> 00:23:44.585
+So your context establishes the what and sometimes the why.
+
+497
+00:23:45.225 --> 00:23:49.085
+So what is it that you're doing and why are you doing it?
+
+498
+00:23:49.185 --> 00:23:53.925
+Why does it matter? And this why shouldn't be this super
+
+499
+00:23:54.275 --> 00:23:55.965
+long drawn out story.
+
+500
+00:23:56.105 --> 00:23:58.245
+In many videos there's often this like deeper,
+
+501
+00:23:58.795 --> 00:24:02.285
+more maybe like emotional why behind what you're doing.
+
+502
+00:24:03.105 --> 00:24:05.085
+And that is called the desire.
+
+503
+00:24:05.305 --> 00:24:07.445
+And the desire is a segment that actually comes
+
+504
+00:24:07.775 --> 00:24:08.965
+after the intro.
+
+505
+00:24:10.185 --> 00:24:11.525
+The whole point of the intro
+
+506
+00:24:11.525 --> 00:24:13.085
+and the whole point of what you're doing here
+
+507
+00:24:13.085 --> 00:24:16.125
+with this context is give them
+
+508
+00:24:17.995 --> 00:24:20.325
+just enough so that they're not confused
+
+509
+00:24:20.545 --> 00:24:21.845
+and so that they care.
+
+510
+00:24:22.465 --> 00:24:24.925
+And as a little as possible that you need
+
+511
+00:24:24.925 --> 00:24:27.125
+to provide them in order to get those two things across.
+
+512
+00:24:28.185 --> 00:24:31.165
+And also, if the what is interesting enough,
+
+513
+00:24:31.785 --> 00:24:34.085
+you often won't even need the why in your intro
+
+514
+00:24:34.085 --> 00:24:36.445
+because if you were already has enough
+
+515
+00:24:36.465 --> 00:24:37.605
+to be invested, right?
+
+516
+00:24:37.605 --> 00:24:40.365
+Like as they say, there's no boring way to tell someone
+
+517
+00:24:40.365 --> 00:24:41.565
+that you won the lottery.
+
+518
+00:24:41.905 --> 00:24:43.165
+If you're what is interesting enough,
+
+519
+00:24:43.185 --> 00:24:44.445
+you don't need this extra why.
+
+520
+00:24:44.865 --> 00:24:47.125
+Um, you only want to include the context necessary
+
+521
+00:24:47.345 --> 00:24:49.005
+to get the viewer to care.
+
+522
+00:24:49.705 --> 00:24:51.805
+So that is context.
+
+523
+00:24:52.425 --> 00:24:56.445
+And as we go through these things, uh, keep in mind
+
+524
+00:24:57.695 --> 00:25:00.595
+how you think you would apply this to the intro
+
+525
+00:25:00.595 --> 00:25:01.595
+that we are writing.
+
+526
+00:25:02.855 --> 00:25:05.955
+So that's context. Let's take a look at
+
+527
+00:25:06.095 --> 00:25:07.235
+an example of context.
+
+528
+00:25:07.855 --> 00:25:11.875
+So this is a video from the lovely Mark Rober,
+
+529
+00:25:12.095 --> 00:25:14.555
+the title being This Ball is Impossible to hit.
+
+530
+00:25:14.925 --> 00:25:18.275
+First Things First, let's take a look at his first sentence.
+
+531
+00:25:19.475 --> 00:25:22.455
+Th this is me pitching a ball that's impossible
+
+532
+00:25:22.455 --> 00:25:23.895
+to hit and I engineered,
+
+533
+00:25:24.885 --> 00:25:28.385
+All right, first sentence was, this is me pitching a ball
+
+534
+00:25:28.385 --> 00:25:29.505
+that's impossible to hit.
+
+535
+00:25:29.955 --> 00:25:33.265
+Great immediately delivers on the expectations set
+
+536
+00:25:33.265 --> 00:25:34.305
+by the title and thumbnail.
+
+537
+00:25:34.655 --> 00:25:36.425
+Very clear. If someone clicked on this video,
+
+538
+00:25:37.095 --> 00:25:38.345
+hear that first sentence.
+
+539
+00:25:38.405 --> 00:25:41.025
+So he'd be like, yes, this is exactly what it came for.
+
+540
+00:25:41.325 --> 00:25:42.425
+It was not click bait.
+
+541
+00:25:42.495 --> 00:25:44.145
+This is a ball that's impossible to hit.
+
+542
+00:25:44.675 --> 00:25:48.705
+First five seconds done. Next Marx moves into the context.
+
+543
+00:25:48.965 --> 00:25:51.625
+So he establishes the what and he establishes the why.
+
+544
+00:25:52.845 --> 00:25:53.845
+Take a look
+
+545
+00:25:55.135 --> 00:25:56.135
+Hit. And I engineered
+
+546
+00:25:56.135 --> 00:25:57.115
+it out of necessity
+
+547
+00:25:57.315 --> 00:25:58.995
+because I'm facing off against the
+
+548
+00:25:58.995 --> 00:26:00.515
+world's greatest Wiffle ball players.
+
+549
+00:26:00.655 --> 00:26:02.875
+Now, wiffle Ball is the popular backyard version
+
+550
+00:26:02.895 --> 00:26:04.315
+of baseball here in America.
+
+551
+00:26:04.545 --> 00:26:05.545
+What?
+
+552
+00:26:06.195 --> 00:26:07.485
+Okay, that's the context.
+
+553
+00:26:08.265 --> 00:26:12.205
+So in just a few sentences, mark has established the why
+
+554
+00:26:12.465 --> 00:26:15.565
+behind why he created a ball that's impossible to hit,
+
+555
+00:26:15.695 --> 00:26:17.525
+which is to face off against the
+
+556
+00:26:17.525 --> 00:26:18.845
+world's greatest whiffle ball players.
+
+557
+00:26:19.465 --> 00:26:21.565
+And he's established the necessary context of
+
+558
+00:26:21.595 --> 00:26:22.605
+what Whiffle ball is.
+
+559
+00:26:22.605 --> 00:26:24.565
+For those of us who have no idea, I dunno about you,
+
+560
+00:26:24.725 --> 00:26:27.325
+I have never heard about whiffle ball before this video.
+
+561
+00:26:27.785 --> 00:26:31.845
+So it's like, okay, we have the, the, the why he did it,
+
+562
+00:26:31.985 --> 00:26:35.325
+and we have the what in terms of necessary context
+
+563
+00:26:35.505 --> 00:26:36.645
+of what the thing is.
+
+564
+00:26:37.185 --> 00:26:40.205
+You have a football nice I've never played before.
+
+565
+00:26:40.585 --> 00:26:41.885
+Um, it is being recorded.
+
+566
+00:26:42.665 --> 00:26:45.325
+So that's context, uh,
+
+567
+00:26:47.205 --> 00:26:48.215
+context, woo.
+
+568
+00:26:48.755 --> 00:26:51.215
+The next thing your intro has to do is open one
+
+569
+00:26:51.215 --> 00:26:52.495
+or more curiosity gaps.
+
+570
+00:26:53.115 --> 00:26:55.855
+Now a curiosity gap is the gap between
+
+571
+00:26:56.005 --> 00:26:58.255
+what we currently know and what we want to know.
+
+572
+00:26:58.715 --> 00:27:01.055
+And it's one of the most basic drivers of human behavior
+
+573
+00:27:01.565 --> 00:27:04.855
+because as humans, our brains are wired to create closure.
+
+574
+00:27:05.435 --> 00:27:07.975
+So if we're introduced to an unfinished story
+
+575
+00:27:08.115 --> 00:27:10.975
+or a question without an answer, it feels like an itch
+
+576
+00:27:10.975 --> 00:27:13.295
+that we very, very, very much want to scratch.
+
+577
+00:27:13.675 --> 00:27:14.855
+And our brains go, wow,
+
+578
+00:27:15.255 --> 00:27:16.655
+I could really use some closure right now.
+
+579
+00:27:16.875 --> 00:27:18.935
+And it prompts us to stick around long enough
+
+580
+00:27:19.035 --> 00:27:20.895
+to get the answer.
+
+581
+00:27:22.355 --> 00:27:26.455
+So when I talked earlier about not wanting the payoff
+
+582
+00:27:26.595 --> 00:27:29.855
+to come too early, this is what we're talking about here.
+
+583
+00:27:30.155 --> 00:27:33.055
+You want to tease a payoff, you want to open a loop,
+
+584
+00:27:33.355 --> 00:27:35.135
+but not close the loop in the beginning.
+
+585
+00:27:35.335 --> 00:27:37.895
+'cause you want people to watch the video in order to
+
+586
+00:27:38.675 --> 00:27:39.735
+end the loop in order
+
+587
+00:27:39.815 --> 00:27:41.415
+to close the loop in order to get the answer.
+
+588
+00:27:42.075 --> 00:27:45.175
+So let's return back to Mark's intro to see
+
+589
+00:27:45.675 --> 00:27:47.735
+how he creates curiosity gaps.
+
+590
+00:27:49.865 --> 00:27:52.815
+Erica, what makes it really interesting is the balls have
+
+591
+00:27:52.815 --> 00:27:54.375
+these holes on one side,
+
+592
+00:27:54.425 --> 00:27:56.895
+which means they can curve like crazy,
+
+593
+00:27:59.795 --> 00:28:00.815
+but how does that work?
+
+594
+00:28:00.915 --> 00:28:02.175
+And how do baseballs
+
+595
+00:28:02.275 --> 00:28:04.895
+or really balls from any sport actually curve
+
+596
+00:28:04.895 --> 00:28:06.215
+through the air for that matter?
+
+597
+00:28:06.395 --> 00:28:08.095
+So today we're gonna test our way
+
+598
+00:28:08.155 --> 00:28:09.575
+to find an answer to that question.
+
+599
+00:28:09.635 --> 00:28:11.295
+And since I grew up playing countless hours
+
+600
+00:28:11.295 --> 00:28:14.095
+of whle ball myself, I'm gonna revive a lifelong dream
+
+601
+00:28:14.095 --> 00:28:16.535
+of going head to head against the pros and I,
+
+602
+00:28:18.255 --> 00:28:19.915
+All right, that's the context.
+
+603
+00:28:20.895 --> 00:28:25.365
+So in just a few, uh, that's a, the,
+
+604
+00:28:25.505 --> 00:28:26.805
+the, the curiosity gap.
+
+605
+00:28:26.905 --> 00:28:30.485
+So in just a few sentences, mark has opened not one,
+
+606
+00:28:30.785 --> 00:28:33.525
+but two different curiosity gaps.
+
+607
+00:28:34.025 --> 00:28:37.685
+The first one is, why do balls curve through the air?
+
+608
+00:28:38.265 --> 00:28:40.445
+Um, and Mark actually does so very explicitly
+
+609
+00:28:40.465 --> 00:28:42.685
+by even asking, but how does that work?
+
+610
+00:28:43.225 --> 00:28:44.885
+And he is talking both about, you know,
+
+611
+00:28:44.995 --> 00:28:46.365
+what makes wiffle balls work,
+
+612
+00:28:46.365 --> 00:28:49.365
+but also how do any other balls curve through the air.
+
+613
+00:28:49.625 --> 00:28:52.645
+So that's the first curiosity gap that Mark opens.
+
+614
+00:28:52.855 --> 00:28:54.045
+We're going to figure out
+
+615
+00:28:54.045 --> 00:28:55.805
+through the video how they do that.
+
+616
+00:28:56.355 --> 00:28:57.565
+It's an unfinished question,
+
+617
+00:28:58.545 --> 00:29:01.645
+but there's another curiosity gap that Mark opens here.
+
+618
+00:29:02.225 --> 00:29:05.375
+And I pose a question to you guys.
+
+619
+00:29:06.155 --> 00:29:08.815
+Do you know what the second curiosity gap is?
+
+620
+00:29:08.915 --> 00:29:10.255
+Do you have any guesses for
+
+621
+00:29:10.255 --> 00:29:13.095
+what the second curiosity gap is within
+
+622
+00:29:13.275 --> 00:29:14.335
+the section of the intro?
+
+623
+00:29:15.615 --> 00:29:16.755
+Can you identify it?
+
+624
+00:29:28.435 --> 00:29:30.795
+Ultimately, how did he do, did anyone get a hit?
+
+625
+00:29:32.085 --> 00:29:34.465
+And I see pros. Yeah, absolutely.
+
+626
+00:29:34.725 --> 00:29:36.745
+Um, a hundred percent you guys are spot on.
+
+627
+00:29:37.015 --> 00:29:41.145
+It's this last piece here, which is this,
+
+628
+00:29:42.355 --> 00:29:46.235
+uh, will mark win against the whiffle ball pros?
+
+629
+00:29:46.815 --> 00:29:49.275
+How does he do like he's going head to head against them.
+
+630
+00:29:49.945 --> 00:29:52.795
+What happens next? What is the result?
+
+631
+00:29:53.295 --> 00:29:55.075
+So those are the two curiosity gaps
+
+632
+00:29:55.075 --> 00:29:56.315
+that are open within this intro.
+
+633
+00:29:56.815 --> 00:29:57.915
+And you don't need
+
+634
+00:29:57.915 --> 00:30:00.675
+to open two different curiosity gaps within your own intro,
+
+635
+00:30:00.855 --> 00:30:04.355
+but opening just one solid loop gives viewers a reason
+
+636
+00:30:04.375 --> 00:30:06.275
+to stick around and will help your retention,
+
+637
+00:30:06.575 --> 00:30:08.155
+not just in your first 30 seconds,
+
+638
+00:30:08.575 --> 00:30:11.115
+but throughout the rest of your entire video
+
+639
+00:30:11.415 --> 00:30:14.235
+as they continue watching to see what happens.
+
+640
+00:30:15.295 --> 00:30:19.875
+So those are curiosity gaps I see. Makes sense. Amazing.
+
+641
+00:30:21.175 --> 00:30:25.635
+So in his intro so far, mark has met the expectations set
+
+642
+00:30:25.635 --> 00:30:26.675
+by the title and thumbnail.
+
+643
+00:30:26.675 --> 00:30:27.675
+This very first sentence,
+
+644
+00:30:28.105 --> 00:30:31.195
+he's established context into why he was creating this ball
+
+645
+00:30:31.335 --> 00:30:33.395
+and what Wiffle Ball is in the first place.
+
+646
+00:30:33.775 --> 00:30:37.035
+And he is opened to curiosity gaps, both in terms
+
+647
+00:30:37.035 --> 00:30:39.235
+of why do balls curve through the air
+
+648
+00:30:39.815 --> 00:30:42.915
+and will mark win against these
+
+649
+00:30:42.915 --> 00:30:44.355
+professional whiff football players.
+
+650
+00:30:45.065 --> 00:30:46.435
+He's already done a lot in intro,
+
+651
+00:30:47.015 --> 00:30:50.035
+but the best YouTube intros don't just meet the
+
+652
+00:30:50.035 --> 00:30:51.355
+expectations set by the title and thumbnail.
+
+653
+00:30:51.705 --> 00:30:53.795
+They exceed those expectations.
+
+654
+00:30:55.045 --> 00:30:59.475
+Which brings us to the last element of the intro input bias.
+
+655
+00:30:59.885 --> 00:31:04.635
+Again, I love incorporating input bias into YouTube intros
+
+656
+00:31:04.635 --> 00:31:06.115
+and I will show you what I mean.
+
+657
+00:31:06.835 --> 00:31:08.575
+So input bias is the idea
+
+658
+00:31:08.575 --> 00:31:10.615
+that the more effort we put into something, whether
+
+659
+00:31:10.615 --> 00:31:14.615
+that be time or energy or money, time, money
+
+660
+00:31:14.655 --> 00:31:16.935
+or energy, the more that we'll value it.
+
+661
+00:31:17.715 --> 00:31:20.895
+And as an example of input bias, one
+
+662
+00:31:20.895 --> 00:31:22.655
+that you may have even experienced in your own life,
+
+663
+00:31:23.795 --> 00:31:27.855
+if we pay, let's say $50 for a bottle of wine, we're going
+
+664
+00:31:27.855 --> 00:31:30.455
+to value that more than if we pay $20 for
+
+665
+00:31:30.455 --> 00:31:33.975
+that exact same bottle of wine, it is the same bottle
+
+666
+00:31:33.975 --> 00:31:37.775
+of wine, but just from the act of paying more for it,
+
+667
+00:31:37.825 --> 00:31:40.095
+we'll sip it and be like, hmm, this tastes better.
+
+668
+00:31:40.955 --> 00:31:43.895
+Uh, and it's this truly wacky thing
+
+669
+00:31:43.965 --> 00:31:45.615
+that exists in human psychology.
+
+670
+00:31:46.075 --> 00:31:48.095
+But the good news is, is that we can leverage
+
+671
+00:31:48.325 --> 00:31:51.615
+that within our own YouTube videos to get people
+
+672
+00:31:51.755 --> 00:31:54.055
+to care about our videos more, to get people
+
+673
+00:31:54.115 --> 00:31:55.735
+to value our videos more.
+
+674
+00:31:56.875 --> 00:31:58.495
+So let's take a look at
+
+675
+00:31:58.515 --> 00:32:02.575
+how Mark leverages input bias in the rest of his intro here.
+
+676
+00:32:04.355 --> 00:32:05.935
+And, and I don't wanna give too much away,
+
+677
+00:32:06.035 --> 00:32:08.175
+but I might have had to rely on my engineering skills
+
+678
+00:32:10.075 --> 00:32:11.215
+to level the playing field.
+
+679
+00:32:19.295 --> 00:32:20.895
+I love that at the end where it gets hit
+
+680
+00:32:21.395 --> 00:32:22.735
+by the base plates.
+
+681
+00:32:23.435 --> 00:32:26.255
+Uh, so this is how Mark not only meets the expectation
+
+682
+00:32:26.405 --> 00:32:28.775
+that the, like he's going to create a ball that's impossible
+
+683
+00:32:28.775 --> 00:32:31.855
+to hit, but it's going to exceed that expectation by showing
+
+684
+00:32:32.195 --> 00:32:34.535
+how much work went into the creation of the ball,
+
+685
+00:32:34.565 --> 00:32:36.255
+showing himself, making the ball,
+
+686
+00:32:36.635 --> 00:32:39.365
+and also having the implication that there's going
+
+687
+00:32:39.365 --> 00:32:42.765
+to be even more engineering related tricks up his sleeve
+
+688
+00:32:43.265 --> 00:32:45.165
+by showing, again, that face plate moving,
+
+689
+00:32:45.165 --> 00:32:46.405
+showing that there's going to be more.
+
+690
+00:32:46.865 --> 00:32:49.885
+And as a result, you as a viewer value the video more
+
+691
+00:32:50.075 --> 00:32:52.485
+because you're like, oh, like one,
+
+692
+00:32:52.945 --> 00:32:54.965
+he actually did the thing that's really cool.
+
+693
+00:32:54.965 --> 00:32:56.005
+He put so much effort into this.
+
+694
+00:32:56.025 --> 00:32:58.285
+And two, I'm not just going
+
+695
+00:32:58.285 --> 00:33:00.325
+to get the ball that's impossible to hit.
+
+696
+00:33:00.345 --> 00:33:03.085
+I'm gonna get all of these other really cool tricks
+
+697
+00:33:03.085 --> 00:33:04.725
+that he's going to show me within this video.
+
+698
+00:33:05.265 --> 00:33:07.325
+And as a result, you value the video more
+
+699
+00:33:07.325 --> 00:33:09.165
+and you're more likely to continue watching.
+
+700
+00:33:09.785 --> 00:33:14.005
+Now you don't need to be an engineering superhero in order
+
+701
+00:33:14.005 --> 00:33:15.085
+to leverage input bias.
+
+702
+00:33:15.205 --> 00:33:17.485
+I think that's a misconception that I see a lot is a lot
+
+703
+00:33:17.485 --> 00:33:19.325
+of people think like, oh, like I need
+
+704
+00:33:19.325 --> 00:33:20.965
+to have a million dollars, or I need to be able
+
+705
+00:33:20.965 --> 00:33:23.845
+to do these like crazy spectacular things in order
+
+706
+00:33:23.985 --> 00:33:25.485
+to leverage input bias.
+
+707
+00:33:26.185 --> 00:33:29.675
+Um, and the question
+
+708
+00:33:29.675 --> 00:33:31.395
+of does it mean I would be good
+
+709
+00:33:31.395 --> 00:33:32.635
+to use clips of the behind the scenes?
+
+710
+00:33:33.065 --> 00:33:34.955
+Yeah, I mean, what hundred percent?
+
+711
+00:33:35.535 --> 00:33:38.075
+So for instance, other ways
+
+712
+00:33:38.075 --> 00:33:39.355
+that you could leverage input bias.
+
+713
+00:33:40.045 --> 00:33:41.235
+Let's say you're working on a video.
+
+714
+00:33:41.415 --> 00:33:45.115
+If you, if you mention you spent seven days researching for
+
+715
+00:33:45.115 --> 00:33:47.155
+that video, that's a little teaser,
+
+716
+00:33:47.335 --> 00:33:48.675
+you could call it behind the scenes.
+
+717
+00:33:48.975 --> 00:33:50.355
+But it's showing how much effort
+
+718
+00:33:50.355 --> 00:33:51.395
+you put into, into the video.
+
+719
+00:33:51.395 --> 00:33:54.595
+People be like, oh wow, she put seven days
+
+720
+00:33:54.895 --> 00:33:56.995
+of research into this, I'm going to wanna watch it.
+
+721
+00:33:57.415 --> 00:33:59.995
+Um, maybe you, you're making a video essay
+
+722
+00:34:00.255 --> 00:34:04.475
+and you show a clip of yourself interviewing an expert.
+
+723
+00:34:04.545 --> 00:34:06.275
+Like it shows that you went extra step beyond.
+
+724
+00:34:06.345 --> 00:34:08.995
+Most people just research things that, that they find,
+
+725
+00:34:09.055 --> 00:34:11.235
+but you took the extra step to actually reach out
+
+726
+00:34:11.235 --> 00:34:12.675
+to experts to talk to 'em about things.
+
+727
+00:34:13.165 --> 00:34:16.475
+Maybe it's traveling to a cool place that, uh,
+
+728
+00:34:16.535 --> 00:34:17.715
+you know, most people won't do.
+
+729
+00:34:17.815 --> 00:34:19.195
+Or just like anything else
+
+730
+00:34:19.265 --> 00:34:21.115
+that few others would be willing to do.
+
+731
+00:34:21.575 --> 00:34:24.915
+By showing that little extra sauce, people are going
+
+732
+00:34:24.915 --> 00:34:26.395
+to value a video more and thus will
+
+733
+00:34:26.395 --> 00:34:27.515
+be more willing to keep watching.
+
+734
+00:34:28.255 --> 00:34:30.715
+And the cool thing about info bias is
+
+735
+00:34:30.715 --> 00:34:32.635
+that it doesn't even need
+
+736
+00:34:32.635 --> 00:34:35.235
+to be mentioned verbally in the video itself.
+
+737
+00:34:35.575 --> 00:34:38.675
+Simply by, let's say like incorporating a high level
+
+738
+00:34:38.675 --> 00:34:40.635
+of editing could count as input bias
+
+739
+00:34:41.215 --> 00:34:43.395
+or having more cinematic shots
+
+740
+00:34:43.495 --> 00:34:44.755
+or just like higher production value.
+
+741
+00:34:45.095 --> 00:34:48.795
+All of those things implicitly signal to the video, signal
+
+742
+00:34:48.795 --> 00:34:50.995
+to the viewer that the video is worth watching.
+
+743
+00:34:51.935 --> 00:34:54.835
+Um, hoping to interview style content. Thank you for that.
+
+744
+00:34:54.835 --> 00:34:58.155
+Yeah, absolutely. Um, so yeah, I, you, in that case
+
+745
+00:34:58.215 --> 00:35:03.055
+for an interview style video, you could, like, I will say
+
+746
+00:35:03.055 --> 00:35:05.495
+that intros and interviews tend
+
+747
+00:35:05.495 --> 00:35:06.855
+to be a little bit different,
+
+748
+00:35:06.915 --> 00:35:10.175
+but you can still have input bias one
+
+749
+00:35:10.175 --> 00:35:11.655
+by having just like a higher production
+
+750
+00:35:11.655 --> 00:35:13.055
+quality intro itself.
+
+751
+00:35:13.355 --> 00:35:15.535
+But even like mentioning, you know,
+
+752
+00:35:15.875 --> 00:35:20.455
+how much work went into the preparation of this interview
+
+753
+00:35:20.455 --> 00:35:21.495
+that you've done, um,
+
+754
+00:35:21.685 --> 00:35:23.695
+that like show effort going into there.
+
+755
+00:35:24.635 --> 00:35:29.115
+So any questions on input bias
+
+756
+00:35:29.575 --> 00:35:33.275
+or on context or curiosity apps, this is your chance
+
+757
+00:35:33.275 --> 00:35:35.995
+to ask them because soon we're going
+
+758
+00:35:35.995 --> 00:35:39.935
+to go into actually writing them, um,
+
+759
+00:35:40.985 --> 00:35:43.295
+doing a video on how to find hotels in sfs.
+
+760
+00:35:43.295 --> 00:35:47.615
+My input bias would be my actual stays at set hotels.
+
+761
+00:35:48.035 --> 00:35:49.735
+So yeah, for, for that.
+
+762
+00:35:49.955 --> 00:35:53.575
+In, in that case for how to find hotels in San Francisco,
+
+763
+00:35:54.205 --> 00:35:58.525
+your input bias might be, you know, like
+
+764
+00:35:59.535 --> 00:36:03.095
+I tried, you know, five different methods
+
+765
+00:36:03.795 --> 00:36:05.255
+of finding hotels
+
+766
+00:36:05.275 --> 00:36:06.935
+and this is the one that's worked the best.
+
+767
+00:36:07.595 --> 00:36:08.775
+You, you don't even have
+
+768
+00:36:08.775 --> 00:36:11.255
+to mention the other five methods that you've tried.
+
+769
+00:36:11.315 --> 00:36:13.335
+You can just, you know, just talk about the one
+
+770
+00:36:13.335 --> 00:36:14.935
+that you're going to talk about in the video.
+
+771
+00:36:15.475 --> 00:36:18.615
+But by even like implying that you've tried other things,
+
+772
+00:36:19.155 --> 00:36:21.055
+it signals to the viewer, oh,
+
+773
+00:36:21.055 --> 00:36:22.655
+there's extra value being done here.
+
+774
+00:36:23.115 --> 00:36:24.855
+So it's like one, I'm not sure if
+
+775
+00:36:24.855 --> 00:36:28.015
+that's exactly the structure of your intro,
+
+776
+00:36:28.155 --> 00:36:30.255
+but that's kind of an example there.
+
+777
+00:36:30.755 --> 00:36:35.365
+Um, yeah, the how to find hotels and save.
+
+778
+00:36:35.365 --> 00:36:37.405
+Yeah, absolutely. So yeah, in that case, just like
+
+779
+00:36:37.505 --> 00:36:40.725
+by mentioning that you've done the work for the viewer
+
+780
+00:36:40.905 --> 00:36:42.245
+to do, try all these things
+
+781
+00:36:42.505 --> 00:36:44.525
+and you will only show them the one
+
+782
+00:36:44.525 --> 00:36:46.405
+that works best, that's a way to do it.
+
+783
+00:36:46.945 --> 00:36:49.125
+Um, does it vary from niche to niche?
+
+784
+00:36:49.265 --> 00:36:51.805
+For example, challenge explainer content versus more of vlog
+
+785
+00:36:52.785 --> 00:36:56.845
+any type of niche that you have, you can, IM,
+
+786
+00:36:56.845 --> 00:36:58.885
+you can leverage input bias in some way.
+
+787
+00:36:59.305 --> 00:37:01.845
+So for a, uh,
+
+788
+00:37:02.345 --> 00:37:04.525
+and I assume you're talking about input bias,
+
+789
+00:37:04.705 --> 00:37:06.365
+but it does apply to like context
+
+790
+00:37:06.425 --> 00:37:07.485
+and curiosity gaps as well.
+
+791
+00:37:07.745 --> 00:37:11.605
+No matter the niche, you're going to need to provide context
+
+792
+00:37:12.155 --> 00:37:14.765
+into what it is that you're doing on that day
+
+793
+00:37:14.865 --> 00:37:16.325
+and maybe why you're doing it.
+
+794
+00:37:16.465 --> 00:37:18.205
+You're going to need to create a curiosity gap.
+
+795
+00:37:18.445 --> 00:37:21.405
+'cause even with a vlog, you need to open something,
+
+796
+00:37:21.405 --> 00:37:22.405
+you need to open a loop.
+
+797
+00:37:22.865 --> 00:37:24.965
+Um, for vlogs, the loop doesn't have
+
+798
+00:37:24.965 --> 00:37:26.325
+to be entirely sensational,
+
+799
+00:37:26.345 --> 00:37:28.605
+but it can be like, you know, you're, you're, you're going
+
+800
+00:37:28.605 --> 00:37:30.965
+to be trying a new restaurant that day
+
+801
+00:37:30.965 --> 00:37:32.245
+that you've never tried before.
+
+802
+00:37:32.615 --> 00:37:35.045
+Let's see how it is. You know, like even that is like,
+
+803
+00:37:35.045 --> 00:37:36.205
+okay, opening a loop.
+
+804
+00:37:36.785 --> 00:37:39.565
+And in terms of input bias, input bias
+
+805
+00:37:39.625 --> 00:37:42.445
+and logs usually tend
+
+806
+00:37:42.445 --> 00:37:44.325
+to be something a little bit different.
+
+807
+00:37:44.345 --> 00:37:47.205
+It used to usually shows up more implicitly in terms of
+
+808
+00:37:47.985 --> 00:37:51.045
+the like, style of vlog that you're filming.
+
+809
+00:37:51.275 --> 00:37:53.405
+Like what are your cinematics, like,
+
+810
+00:37:53.405 --> 00:37:55.645
+what is your production quality like, even humor
+
+811
+00:37:55.785 --> 00:37:58.885
+and personality can be an indicator of input bias
+
+812
+00:37:59.155 --> 00:38:01.965
+because you're showing something more about yourself
+
+813
+00:38:01.965 --> 00:38:03.445
+that most people don't Like.
+
+814
+00:38:03.445 --> 00:38:06.565
+If you're a funny person in, you're being able
+
+815
+00:38:06.565 --> 00:38:07.645
+to like crack a joke
+
+816
+00:38:07.705 --> 00:38:10.525
+or make humor, make someone chuckle within your intro,
+
+817
+00:38:11.025 --> 00:38:13.045
+that's gonna be extra effort that you put in there
+
+818
+00:38:13.045 --> 00:38:14.045
+that most people didn't.
+
+819
+00:38:15.015 --> 00:38:16.835
+So with all
+
+820
+00:38:16.835 --> 00:38:20.715
+that being said, now it's your turn.
+
+821
+00:38:21.095 --> 00:38:24.035
+So we're going to write the rest of our intro.
+
+822
+00:38:24.095 --> 00:38:25.115
+Yes, the rest of our intro.
+
+823
+00:38:25.815 --> 00:38:29.445
+You got this, you're only going to need to do three things.
+
+824
+00:38:29.905 --> 00:38:32.005
+So provide the context, the what
+
+825
+00:38:32.105 --> 00:38:35.685
+and maybe the why, uh, you want to create one
+
+826
+00:38:35.685 --> 00:38:36.805
+or more curiosity gaps.
+
+827
+00:38:36.865 --> 00:38:39.405
+How can you open a loop that gives people wanting
+
+828
+00:38:39.405 --> 00:38:40.565
+to stay to find the answer?
+
+829
+00:38:41.065 --> 00:38:43.685
+And then how can you leverage input bias?
+
+830
+00:38:44.385 --> 00:38:48.245
+Um, and the order in which you establish these three things
+
+831
+00:38:48.545 --> 00:38:49.605
+are up to you.
+
+832
+00:38:50.225 --> 00:38:55.125
+Uh, I typically like to have a curiosity gap.
+
+833
+00:38:55.225 --> 00:38:57.725
+Be one of the last line of my intro
+
+834
+00:38:57.915 --> 00:38:59.685
+because that kinda leads in
+
+835
+00:39:00.265 --> 00:39:02.125
+pretty directly to the rest of my video.
+
+836
+00:39:02.545 --> 00:39:05.685
+But you can have it be before or after input bias up to you.
+
+837
+00:39:06.345 --> 00:39:08.805
+And remember, try to keep your intro overall five
+
+838
+00:39:08.805 --> 00:39:09.965
+to sentences along total.
+
+839
+00:39:10.745 --> 00:39:14.085
+Uh, we've already done one, so four to six sentences left.
+
+840
+00:39:14.145 --> 00:39:16.205
+So I'm gonna give, give, I'm gonna give you six minutes
+
+841
+00:39:16.225 --> 00:39:18.885
+to do this one minute per sentence that you're writing,
+
+842
+00:39:18.885 --> 00:39:20.605
+which again is luxury.
+
+843
+00:39:21.745 --> 00:39:25.845
+So, um, Cody, I see you've already like gone ahead on this.
+
+844
+00:39:25.845 --> 00:39:30.245
+Awesome. I'll start the timer and I will see you guys then.
+
+845
+00:45:36.545 --> 00:45:41.325
+All right. Uh, yeah, just put in the chat
+
+846
+00:45:41.665 --> 00:45:45.565
+for Cody, just like a, a example rewrite
+
+847
+00:45:45.565 --> 00:45:46.685
+of the intro that you put in there.
+
+848
+00:45:47.225 --> 00:45:50.645
+Um, but that was the end of the six minutes.
+
+849
+00:45:51.865 --> 00:45:55.365
+Uh, hopefully you guys
+
+850
+00:45:55.995 --> 00:45:58.645
+have now made an intro.
+
+851
+00:45:58.925 --> 00:46:01.165
+I mean, how, how many of you now have an intro
+
+852
+00:46:01.195 --> 00:46:02.685
+that meets exploitation?
+
+853
+00:46:02.685 --> 00:46:05.365
+The title and thumbnail provides context, creates one
+
+854
+00:46:05.365 --> 00:46:07.445
+of more curiosity gaps and leverages input bias.
+
+855
+00:46:08.105 --> 00:46:09.685
+Um, you don't have to put it in the chat,
+
+856
+00:46:09.865 --> 00:46:13.125
+but maybe just like a, like a thumbs up, a thumbs sideways,
+
+857
+00:46:13.145 --> 00:46:17.645
+thumbs down, uh, on how we're feeling about this so far.
+
+858
+00:46:18.105 --> 00:46:21.165
+And if there are any brave souls out there who want to share
+
+859
+00:46:21.735 --> 00:46:25.045
+their intro, um, go ahead and put it in the chat.
+
+860
+00:46:25.265 --> 00:46:26.645
+I'd love to give feedback.
+
+861
+00:46:27.105 --> 00:46:32.045
+Um, we talked a little bit with Cody in terms
+
+862
+00:46:32.065 --> 00:46:36.685
+of like shifting an intro from
+
+863
+00:46:37.815 --> 00:46:41.835
+the first version, which was, do you know
+
+864
+00:46:41.835 --> 00:46:43.315
+how far you can go with 30 steps?
+
+865
+00:46:43.815 --> 00:46:45.035
+But, but with 30 K steps,
+
+866
+00:46:45.205 --> 00:46:47.835
+let's find out over the next 30 days I'll be doing this
+
+867
+00:46:47.835 --> 00:46:50.555
+by taking 30 K steps every day over the next 30 days.
+
+868
+00:46:51.095 --> 00:46:52.635
+Why am I doing this to prove
+
+869
+00:46:52.635 --> 00:46:54.515
+that it's not only possible, but surprisingly simple.
+
+870
+00:46:55.095 --> 00:46:56.755
+I'm doing this to build the best image of myself.
+
+871
+00:46:56.935 --> 00:46:58.115
+So may have already struggled with,
+
+872
+00:46:58.215 --> 00:47:01.315
+and I'm still do this is making, this is me making
+
+873
+00:47:01.315 --> 00:47:05.035
+that change and showing you how easy it is to do the same.
+
+874
+00:47:05.455 --> 00:47:06.795
+So that was like the first version.
+
+875
+00:47:07.175 --> 00:47:12.135
+And then some main, um,
+
+876
+00:47:14.185 --> 00:47:15.325
+pieces of feedback.
+
+877
+00:47:15.325 --> 00:47:19.165
+There was one, the first sentence saying like how
+
+878
+00:47:19.865 --> 00:47:22.125
+far you can go in general, it's just like a bit vague.
+
+879
+00:47:22.825 --> 00:47:27.285
+Uh, Cody brought up that they wanted
+
+880
+00:47:27.505 --> 00:47:29.845
+to let the viewer choose the goal, which is something
+
+881
+00:47:29.845 --> 00:47:33.965
+that I see a lot in intros as well is the concept of like
+
+882
+00:47:35.355 --> 00:47:37.325
+purposely keeping things vague,
+
+883
+00:47:38.555 --> 00:47:42.335
+but in like 99% of cases,
+
+884
+00:47:42.675 --> 00:47:45.695
+making things vague to try to like evoke more,
+
+885
+00:47:45.695 --> 00:47:49.095
+more curiosity actually has the opposite effect.
+
+886
+00:47:49.285 --> 00:47:52.575
+When a viewer wants to click on a video, they don't want
+
+887
+00:47:52.595 --> 00:47:56.095
+to have to do the work to figure out what the video is going
+
+888
+00:47:56.095 --> 00:47:58.095
+to be about or what it's going to mean.
+
+889
+00:47:58.485 --> 00:48:00.815
+They want to be told they just want to sit there
+
+890
+00:48:00.815 --> 00:48:02.295
+and have the experience brought to them.
+
+891
+00:48:02.675 --> 00:48:03.855
+So being really specific
+
+892
+00:48:04.595 --> 00:48:06.535
+and you know, maybe you're mentioning
+
+893
+00:48:06.535 --> 00:48:08.375
+that you're tracking a couple of different metrics
+
+894
+00:48:08.395 --> 00:48:13.015
+during this time is going to allow them to self insert into
+
+895
+00:48:13.045 --> 00:48:16.335
+that way and identify with something that you're doing
+
+896
+00:48:16.475 --> 00:48:18.295
+and then they'll continue from there.
+
+897
+00:48:18.795 --> 00:48:20.415
+So being more specific
+
+898
+00:48:20.635 --> 00:48:23.495
+and having like a clearer curiosity gap, uh, things
+
+899
+00:48:23.495 --> 00:48:27.865
+that I would recommend there, um, get, get
+
+900
+00:48:27.865 --> 00:48:28.705
+to the point right away
+
+901
+00:48:28.705 --> 00:48:29.945
+wasn't all the way up that way on YouTube.
+
+902
+00:48:29.975 --> 00:48:32.665
+Yeah, absolutely. It's, it's, try to get to the point
+
+903
+00:48:32.765 --> 00:48:33.785
+as quickly as it can.
+
+904
+00:48:34.195 --> 00:48:35.745
+Don't keep things purposely vague.
+
+905
+00:48:35.885 --> 00:48:37.505
+Be as specific as possible.
+
+906
+00:48:38.285 --> 00:48:41.465
+And let me show you, um, how
+
+907
+00:48:43.545 --> 00:48:45.785
+I approached this intro.
+
+908
+00:48:46.605 --> 00:48:49.905
+So first of all, we had the first bit,
+
+909
+00:48:49.905 --> 00:48:51.305
+which is this is a step,
+
+910
+00:48:51.365 --> 00:48:54.065
+and over the next 30 days I'll be doing 30,000
+
+911
+00:48:54.065 --> 00:48:55.425
+of them per day.
+
+912
+00:48:56.355 --> 00:48:58.465
+Great. We went over that first sentence.
+
+913
+00:48:59.085 --> 00:49:02.265
+Um, then we moved to the context, which is
+
+914
+00:49:02.535 --> 00:49:04.705
+because over the last few months I've been
+
+915
+00:49:04.705 --> 00:49:05.865
+more sedentary than ever.
+
+916
+00:49:06.405 --> 00:49:08.545
+At any point you can find me sitting from my computer
+
+917
+00:49:08.695 --> 00:49:11.305
+scrolling in my phone or becoming one with my couch.
+
+918
+00:49:11.965 --> 00:49:13.345
+But that all changes today.
+
+919
+00:49:14.085 --> 00:49:17.345
+So we have this context of like, why, why am I doing this?
+
+920
+00:49:17.345 --> 00:49:18.585
+I've been more sedentary than ever.
+
+921
+00:49:18.985 --> 00:49:20.945
+I don't really need to give a what in this case
+
+922
+00:49:20.945 --> 00:49:24.865
+because most people understand the concept of 30,000 steps,
+
+923
+00:49:25.125 --> 00:49:26.545
+um, in a 30 day challenge.
+
+924
+00:49:27.005 --> 00:49:29.305
+And then was saying, but that all changes today establishes
+
+925
+00:49:29.305 --> 00:49:31.105
+the context that today is day one.
+
+926
+00:49:31.485 --> 00:49:33.985
+Um, bye Sam, thanks for being here.
+
+927
+00:49:35.615 --> 00:49:38.325
+After I, I have my context, I move into the curiosity gap
+
+928
+00:49:38.385 --> 00:49:40.445
+and at this point I'm gonna switch over to voiceover
+
+929
+00:49:40.585 --> 00:49:43.085
+and say, when I sat down this challenge, I knew
+
+930
+00:49:43.085 --> 00:49:44.965
+that I was bound to see some changes by day 30,
+
+931
+00:49:45.505 --> 00:49:48.165
+but in hindsight, I dramatically underestimated just
+
+932
+00:49:48.165 --> 00:49:49.565
+how much this video would change me
+
+933
+00:49:49.565 --> 00:49:51.685
+emotionally, mentally, and physically.
+
+934
+00:49:52.745 --> 00:49:55.365
+So at this point, I'm opening a curiosity gap
+
+935
+00:49:55.515 --> 00:49:58.925
+because the viewer wants to watch, find out just
+
+936
+00:49:58.925 --> 00:50:01.205
+how much I was changed, how did I
+
+937
+00:50:02.075 --> 00:50:03.725
+underestimate what happened.
+
+938
+00:50:04.185 --> 00:50:05.245
+And here as well,
+
+939
+00:50:05.345 --> 00:50:08.885
+in the very end when I say like I changed physically,
+
+940
+00:50:09.365 --> 00:50:12.245
+I can also visually tease some sort of transformation
+
+941
+00:50:12.245 --> 00:50:13.885
+of like a before and the after have the
+
+942
+00:50:13.885 --> 00:50:15.965
+after pixelated out or something else like that.
+
+943
+00:50:16.425 --> 00:50:18.285
+So it opens this loop to be like, oh, like
+
+944
+00:50:18.435 --> 00:50:19.765
+what was the change that happened?
+
+945
+00:50:19.895 --> 00:50:22.205
+Let's keep watching to figure out, um,
+
+946
+00:50:22.255 --> 00:50:24.325
+especially within this like self-improvement
+
+947
+00:50:24.345 --> 00:50:25.685
+and fitness space as well.
+
+948
+00:50:26.305 --> 00:50:28.445
+The concept of transformations tend
+
+949
+00:50:28.445 --> 00:50:30.645
+to be a very strong curiosity act
+
+950
+00:50:30.645 --> 00:50:33.165
+because most people want to undergo some sort
+
+951
+00:50:33.165 --> 00:50:34.205
+of transformation themselves.
+
+952
+00:50:34.585 --> 00:50:37.245
+So promising a strong transformation makes them want
+
+953
+00:50:37.245 --> 00:50:39.365
+to watch to see if they can do so too.
+
+954
+00:50:39.945 --> 00:50:41.965
+Um, it's curiosity the stakes here.
+
+955
+00:50:42.545 --> 00:50:46.245
+So, uh, curiosity could,
+
+956
+00:50:46.425 --> 00:50:50.965
+the curiosity gap could be stakes in my intro, it's not
+
+957
+00:50:50.965 --> 00:50:52.845
+because I'm not really having stakes here,
+
+958
+00:50:53.305 --> 00:50:56.885
+but you could insert stakes if you wanted to.
+
+959
+00:50:56.945 --> 00:50:59.045
+And those stakes could be the curiosity gap.
+
+960
+00:50:59.145 --> 00:51:02.405
+So for instance, you could say something like,
+
+961
+00:51:02.425 --> 00:51:03.685
+if you were doing this challenge
+
+962
+00:51:03.905 --> 00:51:07.685
+and you wanted to track your like metrics
+
+963
+00:51:08.195 --> 00:51:11.645
+over the time, you could insert some sort of stakes on
+
+964
+00:51:11.645 --> 00:51:13.125
+what happens if you don't,
+
+965
+00:51:13.465 --> 00:51:15.405
+or a reward that you're gonna have if
+
+966
+00:51:15.405 --> 00:51:16.525
+you do hit those things.
+
+967
+00:51:16.865 --> 00:51:19.965
+And then those stakes create this additional payoff
+
+968
+00:51:19.965 --> 00:51:23.005
+that could happen in the future, which is, oh, like one,
+
+969
+00:51:23.305 --> 00:51:25.565
+how much do their me do, like their metrics change,
+
+970
+00:51:25.945 --> 00:51:30.005
+but then two, are they able to either get that reward
+
+971
+00:51:30.265 --> 00:51:31.605
+or, um, avoid
+
+972
+00:51:31.605 --> 00:51:34.045
+that punishment if you're setting up stakes in that way.
+
+973
+00:51:35.155 --> 00:51:38.895
+And so in this sample in show that I put together,
+
+974
+00:51:38.995 --> 00:51:40.815
+we have the context, we have the curiosity gap,
+
+975
+00:51:41.235 --> 00:51:43.775
+but what about the input bias?
+
+976
+00:51:44.445 --> 00:51:48.135
+Well, in this video I chose to indicate effort not
+
+977
+00:51:48.135 --> 00:51:51.295
+through words, but through visuals, um,
+
+978
+00:51:51.565 --> 00:51:52.815
+with this sentence right here.
+
+979
+00:51:53.155 --> 00:51:55.735
+So this is gonna be a voiceover where I verbalize words
+
+980
+00:51:55.875 --> 00:51:58.575
+and I'm gonna show myself walking in a variety
+
+981
+00:51:58.675 --> 00:52:02.175
+of interesting and, uh, where, where verbalize words.
+
+982
+00:52:02.635 --> 00:52:04.935
+But during this time, I'm also going
+
+983
+00:52:04.935 --> 00:52:09.415
+to show myself like walking in a variety of very interesting
+
+984
+00:52:09.415 --> 00:52:11.855
+and stunning places, just like some like neat locations.
+
+985
+00:52:12.555 --> 00:52:14.175
+And just by showing
+
+986
+00:52:14.285 --> 00:52:17.455
+that I'm gonna be walking in different places, it signals
+
+987
+00:52:17.455 --> 00:52:19.655
+to the viewer, oh, it's not just gonna be her
+
+988
+00:52:19.655 --> 00:52:20.935
+walking around her neighborhood.
+
+989
+00:52:21.395 --> 00:52:23.735
+I'm gonna be taken on this like journey to all
+
+990
+00:52:23.735 --> 00:52:25.855
+of these other places as we go along there.
+
+991
+00:52:26.355 --> 00:52:28.775
+And it's going to be more interesting
+
+992
+00:52:28.775 --> 00:52:29.855
+than I originally thought.
+
+993
+00:52:30.395 --> 00:52:33.885
+So that's how I would leverage input bias within this video.
+
+994
+00:52:34.585 --> 00:52:36.965
+And this tactic of implementing input bias
+
+995
+00:52:37.045 --> 00:52:39.485
+through visuals brings us to the third
+
+996
+00:52:39.585 --> 00:52:43.925
+and final step in making a killer YouTube intro, which is
+
+997
+00:52:44.445 --> 00:52:47.085
+determining your visuals and constructing your shot list.
+
+998
+00:52:47.515 --> 00:52:51.365
+Because the best intros don't just tell you what's going on,
+
+999
+00:52:51.795 --> 00:52:53.365
+they show it happening.
+
+1000
+00:52:53.865 --> 00:52:55.445
+And especially with the adoption
+
+1001
+00:52:55.445 --> 00:52:58.885
+of YouTube's autoplay feature, it's not uncommon for someone
+
+1002
+00:52:58.905 --> 00:53:02.325
+to view a video's intro entirely without sound.
+
+1003
+00:53:03.025 --> 00:53:04.405
+So to peak a viewer's interest
+
+1004
+00:53:04.405 --> 00:53:07.125
+and keep them watching your intro should be captivating
+
+1005
+00:53:07.125 --> 00:53:10.765
+enough to draw someone in, even if they can't hear a thing.
+
+1006
+00:53:11.995 --> 00:53:15.525
+When Mark Rober provides context about what Wiffle Ball is,
+
+1007
+00:53:15.675 --> 00:53:18.005
+he's not just sitting at a desk telling you about it,
+
+1008
+00:53:18.195 --> 00:53:19.325
+he's showing you examples.
+
+1009
+00:53:19.325 --> 00:53:20.445
+You're being able to watch this
+
+1010
+00:53:20.505 --> 00:53:22.005
+and see people playing wiffle ball.
+
+1011
+00:53:22.625 --> 00:53:25.485
+So as you plan out your intro, i I want you to go
+
+1012
+00:53:25.485 --> 00:53:28.405
+through your script and write down what visuals can be used
+
+1013
+00:53:28.625 --> 00:53:30.805
+to show what you're talking about.
+
+1014
+00:53:31.665 --> 00:53:34.205
+So here's more of what I mean.
+
+1015
+00:53:34.845 --> 00:53:37.565
+I like to break it up into ears and eyes.
+
+1016
+00:53:37.755 --> 00:53:40.085
+What is the viewer hearing? What is the viewer seeing?
+
+1017
+00:53:40.625 --> 00:53:44.605
+So in this case, in my sample intro example, like this is,
+
+1018
+00:53:44.675 --> 00:53:46.885
+this is a step and it can show a closeup
+
+1019
+00:53:46.905 --> 00:53:49.165
+of me taking a step, I can say,
+
+1020
+00:53:49.345 --> 00:53:51.085
+and over the next 30 days, I'm going
+
+1021
+00:53:51.085 --> 00:53:52.805
+to be doing 30,000 of them per day.
+
+1022
+00:53:53.025 --> 00:53:54.365
+That's what the viewer will hear.
+
+1023
+00:53:54.365 --> 00:53:57.365
+What they'll see is me walking over to like a whiteboard.
+
+1024
+00:53:57.425 --> 00:53:59.445
+I'm envisioning like a big whiteboard
+
+1025
+00:53:59.835 --> 00:54:02.005
+with like a calendar drawn on it.
+
+1026
+00:54:02.225 --> 00:54:05.085
+And then like each of the day is being checked off kind
+
+1027
+00:54:05.085 --> 00:54:06.885
+of like in a neat visual during like the,
+
+1028
+00:54:06.885 --> 00:54:09.165
+I'll be doing 30,000 of them per day
+
+1029
+00:54:10.065 --> 00:54:14.265
+and planning out what's going
+
+1030
+00:54:14.265 --> 00:54:15.705
+to be happening on screen.
+
+1031
+00:54:16.055 --> 00:54:19.025
+That, that little extra step, that little extra process
+
+1032
+00:54:19.205 --> 00:54:22.545
+of writing your intro is gonna help you tremendously when it
+
+1033
+00:54:22.545 --> 00:54:23.985
+comes to constructing a final product
+
+1034
+00:54:24.015 --> 00:54:25.825
+that people actually want to watch through.
+
+1035
+00:54:26.645 --> 00:54:28.385
+Now when it comes to the different visuals
+
+1036
+00:54:28.385 --> 00:54:30.665
+that you have at your disposal to choose from,
+
+1037
+00:54:31.005 --> 00:54:32.065
+you have a few options.
+
+1038
+00:54:32.945 --> 00:54:34.205
+The first is a roll.
+
+1039
+00:54:34.425 --> 00:54:36.525
+So this is where someone is speaking directly to the camera.
+
+1040
+00:54:36.945 --> 00:54:40.605
+You'll typically see this in like talking head videos, like,
+
+1041
+00:54:40.725 --> 00:54:43.685
+I mean, even what I'm doing right now is a roll essentially
+
+1042
+00:54:43.685 --> 00:54:44.925
+where I'm talking directly to the camera,
+
+1043
+00:54:45.385 --> 00:54:47.325
+but you don't have to be at your desk if you don't want to.
+
+1044
+00:54:47.345 --> 00:54:49.765
+You can also talk to the camera while you're standing up
+
+1045
+00:54:49.785 --> 00:54:51.645
+or walking around as long as you're micd up.
+
+1046
+00:54:52.025 --> 00:54:53.645
+So that's a roll. Um,
+
+1047
+00:54:53.965 --> 00:54:55.885
+B roll is supplementary footage you can film
+
+1048
+00:54:56.225 --> 00:54:58.765
+and that can be categorized typically into like wide shots,
+
+1049
+00:54:58.975 --> 00:55:01.405
+which establish a location to set a scene.
+
+1050
+00:55:01.785 --> 00:55:02.885
+You have medium shots,
+
+1051
+00:55:02.935 --> 00:55:05.565
+which can capture the subject and the environment.
+
+1052
+00:55:05.565 --> 00:55:09.165
+In equal focus there are closeups which highlight details.
+
+1053
+00:55:09.345 --> 00:55:11.445
+And then you have the extremes, extreme wide shots,
+
+1054
+00:55:11.615 --> 00:55:13.245
+which give your viewers a sense of awe
+
+1055
+00:55:13.245 --> 00:55:16.925
+and scale, which is typically done through drone footage.
+
+1056
+00:55:17.955 --> 00:55:19.645
+Your girl doesn't have a drone yet,
+
+1057
+00:55:19.825 --> 00:55:23.045
+but I think it'll be cool to adopt one one day,
+
+1058
+00:55:23.385 --> 00:55:26.925
+add a little extra spice into the YouTube strategy scene,
+
+1059
+00:55:27.425 --> 00:55:29.325
+and then extreme closeups as well,
+
+1060
+00:55:29.325 --> 00:55:32.485
+which emphasize micro details for dramatic effect.
+
+1061
+00:55:33.475 --> 00:55:36.855
+Um, you can also use text, it can emphasize a key point
+
+1062
+00:55:36.955 --> 00:55:38.295
+and provide additional context.
+
+1063
+00:55:38.915 --> 00:55:41.375
+Uh, I also like to use text just
+
+1064
+00:55:41.755 --> 00:55:46.415
+to emphasize like a key juicy like statement or question.
+
+1065
+00:55:46.525 --> 00:55:48.575
+I'll just do kinda like full screen text as well.
+
+1066
+00:55:49.235 --> 00:55:51.815
+Um, screen recordings help viewers follow along
+
+1067
+00:55:51.815 --> 00:55:53.215
+as you explain something, especially if
+
+1068
+00:55:53.215 --> 00:55:54.375
+you're doing something more digital.
+
+1069
+00:55:54.705 --> 00:55:55.935
+Being able to show
+
+1070
+00:55:55.935 --> 00:55:58.055
+what you're doing on the screen can be really useful.
+
+1071
+00:55:58.595 --> 00:56:01.935
+Um, images or icons can provide visual references if you're
+
+1072
+00:56:01.935 --> 00:56:04.255
+talking about things you can use icons
+
+1073
+00:56:04.275 --> 00:56:06.255
+to like visualize the thing that you're doing.
+
+1074
+00:56:06.955 --> 00:56:09.015
+Um, we have external clips
+
+1075
+00:56:09.195 --> 00:56:12.495
+so you can provide context if you're talking about like a
+
+1076
+00:56:12.495 --> 00:56:14.855
+movie or talking about some sort of external media,
+
+1077
+00:56:15.035 --> 00:56:17.335
+you can show that it's also a great way to add humor,
+
+1078
+00:56:17.435 --> 00:56:18.935
+but like inserting like a meme
+
+1079
+00:56:18.995 --> 00:56:21.455
+or something from time to time could be another way just
+
+1080
+00:56:21.455 --> 00:56:23.725
+to inject more personality into your intro
+
+1081
+00:56:23.785 --> 00:56:24.925
+or any other part of your video.
+
+1082
+00:56:25.665 --> 00:56:27.245
+And then finally, we have motion graphics.
+
+1083
+00:56:27.745 --> 00:56:29.525
+And these can illustrate key points.
+
+1084
+00:56:29.755 --> 00:56:31.765
+They're often used to explain complex ideas.
+
+1085
+00:56:32.345 --> 00:56:34.245
+And motion graphics are a great way
+
+1086
+00:56:34.245 --> 00:56:36.605
+to leverage input bios within your intros as well
+
+1087
+00:56:36.675 --> 00:56:38.365
+because not many people can do them.
+
+1088
+00:56:38.425 --> 00:56:40.365
+So if you can do motion graphics,
+
+1089
+00:56:40.515 --> 00:56:43.725
+showing them there just elevates your video
+
+1090
+00:56:43.985 --> 00:56:46.685
+and lets viewers know like, oh, like we're in for a treat.
+
+1091
+00:56:46.695 --> 00:56:47.885
+We're going to get a lot there.
+
+1092
+00:56:49.115 --> 00:56:53.175
+And how granular you want to be with your
+
+1093
+00:56:53.965 --> 00:56:56.415
+visuals as you go out visually planning your intro
+
+1094
+00:56:56.715 --> 00:56:57.775
+is up to you.
+
+1095
+00:56:57.995 --> 00:57:00.615
+So this is what it typically looks like for me.
+
+1096
+00:57:01.075 --> 00:57:03.255
+Uh, I like to script everything in notion.
+
+1097
+00:57:03.275 --> 00:57:04.935
+So you're seeing notion. And
+
+1098
+00:57:04.935 --> 00:57:06.615
+what you're seeing right now is essentially
+
+1099
+00:57:06.755 --> 00:57:10.295
+for every like phrase I have made a comment
+
+1100
+00:57:10.835 --> 00:57:15.015
+and that comment is me annotating what the viewer is seeing
+
+1101
+00:57:15.195 --> 00:57:16.215
+during those parts.
+
+1102
+00:57:16.875 --> 00:57:18.655
+Uh, you can see there are like letters
+
+1103
+00:57:18.925 --> 00:57:21.695
+that I have in like in the front of the comment
+
+1104
+00:57:22.265 --> 00:57:23.975
+those signify like, is this B roll?
+
+1105
+00:57:23.995 --> 00:57:25.655
+Is this a roll V is visual.
+
+1106
+00:57:26.195 --> 00:57:28.535
+The other types I'll normally do is, is this text
+
+1107
+00:57:28.555 --> 00:57:29.975
+or is this screen recordings?
+
+1108
+00:57:29.985 --> 00:57:31.335
+Those are the main ones
+
+1109
+00:57:31.335 --> 00:57:32.695
+that I typically use within my own videos.
+
+1110
+00:57:33.435 --> 00:57:35.375
+And you can also see that some
+
+1111
+00:57:35.375 --> 00:57:37.695
+of the phrases are highlighted in blue.
+
+1112
+00:57:38.195 --> 00:57:41.095
+And what that is, is actually a technique that I like to use
+
+1113
+00:57:41.115 --> 00:57:42.815
+to help me while filming.
+
+1114
+00:57:43.435 --> 00:57:45.335
+Uh, because when I'm filming I can look down
+
+1115
+00:57:45.355 --> 00:57:46.855
+and see whatever I highlight in blue.
+
+1116
+00:57:47.125 --> 00:57:49.975
+That is what I know is going to be a roll.
+
+1117
+00:57:49.975 --> 00:57:52.175
+That is what I know in the finished product is going
+
+1118
+00:57:52.175 --> 00:57:53.935
+to be me talking directly to the camera.
+
+1119
+00:57:54.675 --> 00:57:56.695
+So I'll make sure I deliver those
+
+1120
+00:57:56.875 --> 00:57:59.455
+to the camera versus the other ones I'm like, oh,
+
+1121
+00:57:59.455 --> 00:58:01.135
+this is gonna be covered up by other stuff.
+
+1122
+00:58:01.355 --> 00:58:02.855
+So I can just do voiceover for that.
+
+1123
+00:58:03.435 --> 00:58:05.535
+So it makes filming a lot easier versus having
+
+1124
+00:58:05.595 --> 00:58:08.455
+to like present the entire video directly to my camera.
+
+1125
+00:58:08.845 --> 00:58:10.095
+It's a lot easier to read off
+
+1126
+00:58:10.095 --> 00:58:11.935
+of a screen versus having to present it all.
+
+1127
+00:58:12.875 --> 00:58:15.735
+And this is the format that I like to use
+
+1128
+00:58:15.735 --> 00:58:16.815
+for my visual annotations.
+
+1129
+00:58:17.075 --> 00:58:19.455
+Uh, other people I know like to do something more like this
+
+1130
+00:58:19.625 --> 00:58:22.255
+where they have an ears column, an eyes column,
+
+1131
+00:58:22.355 --> 00:58:25.095
+and maybe like a type column, um, where you can see more
+
+1132
+00:58:25.095 --> 00:58:28.095
+of like a one-to-one ratio of what is
+
+1133
+00:58:28.095 --> 00:58:30.455
+what the viewer is hearing and what the viewer is seeing.
+
+1134
+00:58:31.675 --> 00:58:33.855
+And the great part is that
+
+1135
+00:58:33.855 --> 00:58:35.575
+after you do all of this, you can make,
+
+1136
+00:58:35.915 --> 00:58:38.135
+you can take your visual annotations that you've made
+
+1137
+00:58:38.475 --> 00:58:40.015
+and make a shot list out of that.
+
+1138
+00:58:40.435 --> 00:58:43.535
+So in this case, I would make a list of like closeup
+
+1139
+00:58:43.595 --> 00:58:47.055
+of like taking a step, uh, me slash in front of my computer,
+
+1140
+00:58:47.315 --> 00:58:48.495
+me and bed scrolling on my phone,
+
+1141
+00:58:48.755 --> 00:58:49.975
+me being a DJ on the couch.
+
+1142
+00:58:50.595 --> 00:58:53.855
+Um, and those all become a shot list for myself.
+
+1143
+00:58:53.875 --> 00:58:54.935
+So when I go out into filming,
+
+1144
+00:58:55.375 --> 00:58:57.895
+I can really easily just grab all the footage that I need.
+
+1145
+00:58:58.075 --> 00:59:00.735
+So when it comes to editing the killer intro that I want
+
+1146
+00:59:00.735 --> 00:59:03.975
+to make, I have all those resources available to me.
+
+1147
+00:59:03.995 --> 00:59:06.015
+And I'm never stuck being like, man,
+
+1148
+00:59:06.275 --> 00:59:09.055
+if only I had this footage, I would do this.
+
+1149
+00:59:09.085 --> 00:59:11.255
+Like, nope, I got everything that I need
+
+1150
+00:59:11.255 --> 00:59:12.495
+because I do the work beforehand.
+
+1151
+00:59:13.435 --> 00:59:16.975
+Um, and of course we're going to do this together,
+
+1152
+00:59:17.115 --> 00:59:18.735
+of course, we're gonna be taking our intros
+
+1153
+00:59:18.755 --> 00:59:21.885
+and applying, uh, a visual annotation to this.
+
+1154
+00:59:22.425 --> 00:59:25.765
+But I'm going to drop in this just essentially this,
+
+1155
+00:59:25.785 --> 00:59:27.325
+but as a template for you guys,
+
+1156
+00:59:27.545 --> 00:59:28.565
+I'm putting that in the chat.
+
+1157
+00:59:29.065 --> 00:59:31.805
+Um, just, uh, Google sheets you can use
+
+1158
+00:59:32.305 --> 00:59:34.285
+and yeah, just make sure that if you use this,
+
+1159
+00:59:34.305 --> 00:59:37.405
+you just go into file and make a copy to, you can't work off
+
+1160
+00:59:37.405 --> 00:59:39.085
+of the version, so just make a copy
+
+1161
+00:59:39.385 --> 00:59:42.805
+and then you can use this to serve as the basis
+
+1162
+00:59:42.865 --> 00:59:44.285
+for your own visual annotations.
+
+1163
+00:59:44.785 --> 00:59:47.605
+If you don't want to just comment it out like I normally do.
+
+1164
+00:59:48.665 --> 00:59:51.925
+So once again, now it is your turn.
+
+1165
+00:59:52.065 --> 00:59:53.445
+I'm gonna give you another six minutes
+
+1166
+00:59:53.545 --> 00:59:55.205
+to make your visual annotations.
+
+1167
+00:59:55.825 --> 00:59:57.485
+And as you go through your annotations,
+
+1168
+00:59:58.035 --> 01:00:01.285
+another thing you might realize is that you don't have to
+
+1169
+01:00:02.245 --> 01:00:04.085
+verbally always say something.
+
+1170
+01:00:04.745 --> 01:00:09.355
+So there are cases where on YouTube in general,
+
+1171
+01:00:09.625 --> 01:00:11.995
+it's always best to show, not tell.
+
+1172
+01:00:12.055 --> 01:00:15.035
+So if there are a case where like, oh, I'm saying this,
+
+1173
+01:00:15.335 --> 01:00:17.315
+but I could show this instead.
+
+1174
+01:00:18.915 --> 01:00:21.955
+Normally by default you wanna choose the showing of it.
+
+1175
+01:00:22.335 --> 01:00:24.395
+So for instance, mark Rober, in the end
+
+1176
+01:00:24.395 --> 01:00:27.435
+of his intro didn't need to verbally list out or like say,
+
+1177
+01:00:28.015 --> 01:00:30.715
+and by the way, it's not just the ball that I've made,
+
+1178
+01:00:30.715 --> 01:00:32.195
+I've done all of these other things as well
+
+1179
+01:00:32.195 --> 01:00:35.035
+because he can just show the base plate moving
+
+1180
+01:00:35.295 --> 01:00:37.755
+and that's much more effective than him just saying it.
+
+1181
+01:00:38.295 --> 01:00:40.475
+Um, I say, well, what was the platform I used for my script?
+
+1182
+01:00:40.615 --> 01:00:42.435
+Uh, I use notion myself.
+
+1183
+01:00:43.815 --> 01:00:47.395
+And so I'm gonna give you six minutes once again to,
+
+1184
+01:00:47.695 --> 01:00:49.195
+you can use that template if you want to,
+
+1185
+01:00:49.535 --> 01:00:50.955
+to make your visual annotations
+
+1186
+01:00:51.255 --> 01:00:55.555
+and to cut down any extraneous sentences that you have,
+
+1187
+01:00:55.855 --> 01:00:57.195
+any ones that you realize, Hmm,
+
+1188
+01:00:57.235 --> 01:00:58.475
+I don't really need this anymore
+
+1189
+01:00:58.475 --> 01:01:00.555
+because I have a visual that can show this better.
+
+1190
+01:01:01.495 --> 01:01:03.275
+And I'll see you afterwards.
+
+1191
+01:07:05.665 --> 01:07:07.205
+All right, welcome back.
+
+1192
+01:07:07.665 --> 01:07:10.565
+Uh, as we might say, pencils down,
+
+1193
+01:07:10.655 --> 01:07:11.725
+which hopefully is a phrase
+
+1194
+01:07:11.755 --> 01:07:13.565
+that doesn't give you too much trauma.
+
+1195
+01:07:13.585 --> 01:07:16.245
+If you've taken a lot of standardized tests in the past, uh,
+
+1196
+01:07:16.265 --> 01:07:19.805
+it still kind of gives me the ick, but welcome back.
+
+1197
+01:07:20.065 --> 01:07:21.845
+Uh, and hopefully at this point
+
+1198
+01:07:22.625 --> 01:07:26.165
+you have at least an 80% ready to go intro.
+
+1199
+01:07:26.325 --> 01:07:29.685
+I feel like in most intros it normally takes me a couple
+
+1200
+01:07:29.685 --> 01:07:31.205
+different iterations to get to
+
+1201
+01:07:31.415 --> 01:07:33.245
+where it is a hundred percent of the time.
+
+1202
+01:07:33.725 --> 01:07:34.925
+I think the best thing that you can do
+
+1203
+01:07:34.935 --> 01:07:37.725
+after you've gone through this process is going back
+
+1204
+01:07:37.785 --> 01:07:40.245
+to YouTube friends that you have and getting feedback
+
+1205
+01:07:40.245 --> 01:07:43.205
+and saying like, oh, asking them is this interesting?
+
+1206
+01:07:43.205 --> 01:07:44.365
+Does this keep your attention?
+
+1207
+01:07:44.915 --> 01:07:47.285
+Does this open a big enough curiosity gap for you?
+
+1208
+01:07:47.345 --> 01:07:48.565
+Are you interested enough to keep
+
+1209
+01:07:48.565 --> 01:07:49.845
+washing through to the end?
+
+1210
+01:07:50.745 --> 01:07:53.925
+And whether you ended up using this sample title
+
+1211
+01:07:53.945 --> 01:07:56.005
+and thumbnail or using your own,
+
+1212
+01:07:56.665 --> 01:07:57.845
+we don't need to listen to that again.
+
+1213
+01:07:58.225 --> 01:07:59.925
+Um, hopefully you can now see
+
+1214
+01:07:59.925 --> 01:08:02.525
+how this intro formula can be applied to different types
+
+1215
+01:08:02.545 --> 01:08:04.245
+of niche, different types of formats.
+
+1216
+01:08:04.245 --> 01:08:06.605
+It can be used for a variety of different types of videos
+
+1217
+01:08:07.225 --> 01:08:10.165
+and consistently has been shown
+
+1218
+01:08:10.345 --> 01:08:12.845
+to perform quite well when it comes
+
+1219
+01:08:12.845 --> 01:08:14.645
+to keeping retention for the first 30 seconds.
+
+1220
+01:08:15.545 --> 01:08:19.045
+And at this point, thank you so much for watching.
+
+1221
+01:08:19.045 --> 01:08:21.925
+Thanks so much for being here, uh, and for participating.
+
+1222
+01:08:21.925 --> 01:08:24.445
+If you did when it came to writing intros
+
+1223
+01:08:24.445 --> 01:08:26.525
+or trying it out for yourself, at this point, I'd love
+
+1224
+01:08:26.525 --> 01:08:28.165
+to answer any questions people might have,
+
+1225
+01:08:28.165 --> 01:08:30.405
+either about intros or about anything else.
+
+1226
+01:08:30.745 --> 01:08:34.085
+Um, or if you wanna get feedback on an intro either
+
+1227
+01:08:34.145 --> 01:08:35.205
+for this exercise
+
+1228
+01:08:35.625 --> 01:08:38.925
+or an another intro that you've done in the past yourself,
+
+1229
+01:08:39.385 --> 01:08:41.005
+I'm happy to give feedback on that as well.
+
+1230
+01:08:41.535 --> 01:08:46.125
+Thank you. Um, thanks. Still.
+
+1231
+01:08:46.345 --> 01:08:47.765
+So I see a question.
+
+1232
+01:08:47.765 --> 01:08:49.725
+If the intro is good, how many people should stay
+
+1233
+01:08:49.725 --> 01:08:50.765
+after the first 30 seconds?
+
+1234
+01:08:51.305 --> 01:08:54.245
+So that question is difficult to answer mostly
+
+1235
+01:08:54.245 --> 01:08:58.165
+because it depends a lot on the niche
+
+1236
+01:08:58.225 --> 01:09:00.765
+and the type of video that it is.
+
+1237
+01:09:01.425 --> 01:09:05.325
+Um, for instance, if you're doing like a challenge video,
+
+1238
+01:09:06.545 --> 01:09:10.445
+the retention should be higher or is typically a lot higher
+
+1239
+01:09:10.445 --> 01:09:14.605
+after the first 30 seconds than if you're doing let's say a
+
+1240
+01:09:15.275 --> 01:09:17.325
+like a an educational video
+
+1241
+01:09:17.745 --> 01:09:19.325
+for a vlog that's also different.
+
+1242
+01:09:19.325 --> 01:09:20.605
+It's, it's typically gonna be higher.
+
+1243
+01:09:21.145 --> 01:09:23.725
+Um, so it does depend on the video itself.
+
+1244
+01:09:25.455 --> 01:09:29.715
+If I were to make a broad generalization very broadly,
+
+1245
+01:09:31.015 --> 01:09:33.315
+should be at least like
+
+1246
+01:09:34.985 --> 01:09:39.315
+70% blanket statement on like a really good intro.
+
+1247
+01:09:39.935 --> 01:09:42.915
+You'll have like 70% after the first 30 seconds.
+
+1248
+01:09:43.015 --> 01:09:47.675
+But again, it does vary massively depending on what type
+
+1249
+01:09:47.675 --> 01:09:49.435
+of video you're making and what niche you're in.
+
+1250
+01:10:01.015 --> 01:10:01.705
+Yeah, of course.
+
+1251
+01:10:08.505 --> 01:10:10.685
+Anyone, yeah, if there are any other questions, let me know.
+
+1252
+01:10:10.825 --> 01:10:14.325
+But, uh, otherwise, thank you so much for, for,
+
+1253
+01:10:14.425 --> 01:10:16.045
+for being here and for participating
+
+1254
+01:10:16.065 --> 01:10:17.885
+and I hope you were able to get something useful out of it.
+
+1255
+01:10:18.525 --> 01:10:21.295
+This was so fantastic. Thank you so much for your time.
+
+1256
+01:10:21.555 --> 01:10:24.415
+I'm sure everybody learned so much. So thank you.
+
+1257
+01:10:25.485 --> 01:10:26.235
+Thank you so much.
+
+1258
+01:10:32.435 --> 01:10:33.175
+Thanks, Cody.
