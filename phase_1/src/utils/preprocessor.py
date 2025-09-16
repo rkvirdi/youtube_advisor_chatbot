@@ -35,3 +35,19 @@ class PreprocessData:
 			)
 			docs.append(doc)
 		return docs
+
+# if __name__ == "__main__":
+#  # Resolve transcripts dir relative to THIS file: phase_1/transcripts
+#     project_root = Path(__file__).resolve().parents[2]  # .../phase_1
+#     transcripts_dir = project_root / "transcripts"
+
+#     folder = Path(transcripts_dir)
+#     all_docs = []
+
+#     for file_path in folder.glob("*.txt"):
+#         all_docs.extend(PreprocessData.parse_webvtt_transcript(file_path))
+
+#     if all_docs:
+#         print(all_docs[0])
+#     else:
+#         print("No cues parsed. Check file patterns or transcript format.")
