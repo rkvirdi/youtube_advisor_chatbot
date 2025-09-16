@@ -1,3 +1,6 @@
 langchain-community == 0.3.29
 weaviate-client == 3.26.7
 sentence-transformers == 5.1.0
+groq == 0.31.1
+fastapi == 0.116.2
+uvicorn == 0.35.0

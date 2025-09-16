@@ -1,4 +1,6 @@
 import os
+from dotenv import load_dotenv
+load_dotenv()
 from src.utils.retriever import retrieve_relevant_chunks
 from src.utils.generator import generate_response
 
