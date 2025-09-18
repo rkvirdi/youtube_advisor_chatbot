@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "total": 20
+  },
+  "mean": {
+    "precision": 0.9149168133735657,
+    "recall": 0.88421231508255,
+    "f1": 0.8992214202880859
+  },
+  "items": [
+    {
+      "id": "ex-001",
+      "prediction": "The intro is the most underrated part of a YouTube video.",
+      "reference": "April Lynn explained that the intro is the single most underrated part of a YouTube video because it can make or break viewer retention in the first 30 seconds.",
+      "bertscore": {
+        "precision": 0.9681165218353271,
+        "recall": 0.8801414370536804,
+        "f1": 0.9220351576805115
+      }
+    },
+    {
+      "id": "ex-002",
+      "prediction": "Because if people click away in the first 30 seconds, they’ll never see the rest of your video.",
+      "reference": "April Lynn emphasized that the first 30 seconds are crucial because if viewers drop off early, they will not stay to enjoy the rest of the video.",
+      "bertscore": {
+        "precision": 0.9221469163894653,
+        "recall": 0.9087070822715759,
+        "f1": 0.915377676486969
+      }
+    },
+    {
+      "id": "ex-003",
+      "prediction": "She suggested matching your first sentence with your video title.",
+      "reference": "April Lynn recommended aligning the first sentence of your intro with the title and thumbnail to meet viewer expectations.",
+      "bertscore": {
+        "precision": 0.9429094791412354,
+        "recall": 0.9021539688110352,
+        "f1": 0.9220815896987915
+      }
+    },
+    {
+      "id": "ex-004",
+      "prediction": "The intro should confirm what was promised in the title and thumbnail.",
+      "reference": "April Lynn said the intro should meet the expectations set by the title and thumbnail so the viewer feels the video delivers what they clicked for.",
+      "bertscore": {
+        "precision": 0.9328872561454773,
+        "recall": 0.8850983381271362,
+        "f1": 0.9083647131919861
+      }
+    },
+    {
+      "id": "ex-005",
+      "prediction": "They write the intro before finalizing the title and thumbnail.",
+      "reference": "April Lynn explained many creators lock themselves into an intro first, but they should create the most clickable title and thumbnail first, then write the intro around it.",
+      "bertscore": {
+        "precision": 0.9131234884262085,
+        "recall": 0.8761295676231384,
+        "f1": 0.8942441344261169
+      }
+    },
+    {
+      "id": "ex-006",
+      "prediction": "A three-step intro formula to grab attention and improve retention.",
+      "reference": "April Lynn introduced a specific three-step intro formula that has helped creators reach millions of views and monetization.",
+      "bertscore": {
+        "precision": 0.9340492486953735,
+        "recall": 0.8982769846916199,
+        "f1": 0.9158139228820801
+      }
+    },
+    {
+      "id": "ex-007",
+      "prediction": "It automatically raises retention for the entire video.",
+      "reference": "April Lynn said if you improve the first 30 seconds, by default the rest of the video’s retention improves as well.",
+      "bertscore": {
+        "precision": 0.9038614630699158,
+        "recall": 0.8682738542556763,
+        "f1": 0.8857103586196899
+      }
+    },
+    {
+      "id": "ex-008",
+      "prediction": "If your video title is about bullet journaling, your intro must mention it immediately.",
+      "reference": "April Lynn explained that if the title says ‘bullet journaling for 30 days,’ your first sentence should mention bullet journal and 30 days or viewers will click off.",
+      "bertscore": {
+        "precision": 0.9158594012260437,
+        "recall": 0.879265308380127,
+        "f1": 0.8971893787384033
+      }
+    },
+    {
+      "id": "ex-009",
+      "prediction": "Because they are the most clickable packaging and drive whether people even click.",
+      "reference": "April Lynn said titles and thumbnails should be finalized first since they determine if viewers click, and then you write intros to match them.",
+      "bertscore": {
+        "precision": 0.8708011507987976,
+        "recall": 0.8525572419166565,
+        "f1": 0.8615825772285461
+      }
+    },
+    {
+      "id": "ex-010",
+      "prediction": "Because the intro doesn’t deliver what the title and thumbnail promised.",
+      "reference": "April Lynn explained that viewers click away if the intro feels irrelevant or slow, since they don’t feel the video will respect their time.",
+      "bertscore": {
+        "precision": 0.8896814584732056,
+        "recall": 0.8647269606590271,
+        "f1": 0.8770267367362976
+      }
+    },
+    {
+      "id": "ex-011",
+      "prediction": "He is an award-winning video editor with experience working with top YouTubers.",
+      "reference": "Hayden is an award-winning video editor who has worked with MrBeast, Logan Paul, Mark Rober, and others, and he won a 2020 Streamy Award for best editing.",
+      "bertscore": {
+        "precision": 0.9322175979614258,
+        "recall": 0.8804398775100708,
+        "f1": 0.90558922290802
+      }
+    },
+    {
+      "id": "ex-012",
+      "prediction": "He mixes timeless cinematic principles with modern YouTube techniques.",
+      "reference": "Hayden emphasized combining Hollywood storytelling with modern YouTube techniques to create emotionally resonant content.",
+      "bertscore": {
+        "precision": 0.9481983780860901,
+        "recall": 0.9186007380485535,
+        "f1": 0.9331648945808411
+      }
+    },
+    {
+      "id": "ex-013",
+      "prediction": "Gen Z doesn’t care about Netflix or HBO, but prefers YouTube content.",
+      "reference": "Hayden explained that younger audiences no longer prioritize traditional TV or streaming like Netflix; they prefer creator-driven YouTube content.",
+      "bertscore": {
+        "precision": 0.9106744527816772,
+        "recall": 0.9006868004798889,
+        "f1": 0.9056530594825745
+      }
+    },
+    {
+      "id": "ex-014",
+      "prediction": "They became insecure and edited videos too fast with too many subtitles.",
+      "reference": "Hayden said creators overloaded videos with fast cuts and text because they feared drop-off, creating the worst time of YouTube.",
+      "bertscore": {
+        "precision": 0.8941572904586792,
+        "recall": 0.8708614706993103,
+        "f1": 0.8823556303977966
+      }
+    },
+    {
+      "id": "ex-015",
+      "prediction": "Spending more time with them is the key.",
+      "reference": "Hayden said that time is the most valuable currency for developing audience relationships.",
+      "bertscore": {
+        "precision": 0.8984506130218506,
+        "recall": 0.88402259349823,
+        "f1": 0.8911782503128052
+      }
+    },
+    {
+      "id": "ex-016",
+      "prediction": "He shifted from 8–12 minute videos to longer ones up to 41 minutes.",
+      "reference": "Hayden explained MrBeast used to target 8-minute videos for monetization but now creates 20–40 minute videos for TV audiences.",
+      "bertscore": {
+        "precision": 0.9045169949531555,
+        "recall": 0.886163055896759,
+        "f1": 0.8952459692955017
+      }
+    },
+    {
+      "id": "ex-017",
+      "prediction": "It becomes background noise that audiences don’t remember.",
+      "reference": "Hayden said some videos are just background while viewers multitask, making them forgettable compared to TV-like creators.",
+      "bertscore": {
+        "precision": 0.8917474746704102,
+        "recall": 0.8704102635383606,
+        "f1": 0.8809497356414795
+      }
+    },
+    {
+      "id": "ex-018",
+      "prediction": "TV-like YouTube creators who make cinematic, binge-worthy content.",
+      "reference": "Hayden explained that new-generation YouTube creators are rivaling traditional TV by producing engaging, long-form, cinematic content.",
+      "bertscore": {
+        "precision": 0.9067076444625854,
+        "recall": 0.8908768892288208,
+        "f1": 0.8987225890159607
+      }
+    },
+    {
+      "id": "ex-019",
+      "prediction": "Because viewers were emotionally unstable and creators felt pressure to keep them hooked.",
+      "reference": "Hayden explained that the pandemic made people crave constant new content, making creators obsessed with retention to keep audiences engaged.",
+      "bertscore": {
+        "precision": 0.8996850848197937,
+        "recall": 0.8815299272537231,
+        "f1": 0.8905150294303894
+      }
+    },
+    {
+      "id": "ex-020",
+      "prediction": "A new generation of creators becoming better filmmakers.",
+      "reference": "Hayden described the evolution as creators becoming better filmmakers and storytellers who can rival streaming platforms.",
+      "bertscore": {
+        "precision": 0.9185453653335571,
+        "recall": 0.8853237628936768,
+        "f1": 0.9016286134719849
+      }
+    }
+  ]
+}

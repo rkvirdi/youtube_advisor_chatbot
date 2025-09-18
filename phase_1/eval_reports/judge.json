@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "total": 20
+  },
+  "mean": {
+    "helpfulness": 1.1,
+    "groundedness": 1.0,
+    "relevance": 1.2
+  },
+  "items": [
+    {
+      "id": "ex-001",
+      "judge": {
+        "helpfulness": 2,
+        "groundedness": 1,
+        "relevance": 3,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-002",
+      "judge": {
+        "helpfulness": 2,
+        "groundedness": 1,
+        "relevance": 2,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-003",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-004",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 2,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-005",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-006",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-007",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-008",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-009",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-010",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-011",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-012",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-013",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-014",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-015",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-016",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-017",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-018",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-019",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    },
+    {
+      "id": "ex-020",
+      "judge": {
+        "helpfulness": 1,
+        "groundedness": 1,
+        "relevance": 1,
+        "comments": ""
+      }
+    }
+  ]
+}

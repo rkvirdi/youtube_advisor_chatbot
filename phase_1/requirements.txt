@@ -4,3 +4,7 @@ sentence-transformers == 5.1.0
 groq == 0.31.1
 fastapi == 0.116.2
 uvicorn == 0.35.0
+bert-score == 0.3.13
+"transformers>=4.40" 
+torch
+nltk == 3.9.1

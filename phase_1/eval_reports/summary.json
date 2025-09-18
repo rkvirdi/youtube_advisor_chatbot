@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "total": 20
+  },
+  "macro": {
+    "exact_match": 0.0,
+    "bleu4": 0.05407209804716501,
+    "rougeL": 0.225004371212249,
+    "bertscore_f1": 0.8992214202880859,
+    "bertscore_precision": 0.9149168133735657,
+    "bertscore_recall": 0.88421231508255,
+    "judge_helpfulness": 1.1,
+    "judge_groundedness": 1.0,
+    "judge_relevance": 1.2
+  },
+  "paths": {
+    "generator": "C:\\Users\\GursewakNeet\\Documents\\ALL_PROJECTS\\YouTube_Advisor\\phase_1\\eval_reports\\generator.json",
+    "bertscore": "C:\\Users\\GursewakNeet\\Documents\\ALL_PROJECTS\\YouTube_Advisor\\phase_1\\eval_reports\\bertscore.json",
+    "judge": "C:\\Users\\GursewakNeet\\Documents\\ALL_PROJECTS\\YouTube_Advisor\\phase_1\\eval_reports\\judge.json"
+  }
+}

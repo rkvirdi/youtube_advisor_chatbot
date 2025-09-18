@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "total": 20
+  },
+  "mean": {
+    "exact_match": 0.0,
+    "bleu4": 0.05407209804716501,
+    "rougeL": 0.225004371212249,
+    "len_pred": 11.0,
+    "len_ref": 21.25
+  },
+  "items": [
+    {
+      "id": "ex-001",
+      "exact_match": false,
+      "bleu4": 0.13660931514470026,
+      "rougeL": 0.5000000000000001,
+      "len_pred": 11,
+      "len_ref": 29
+    },
+    {
+      "id": "ex-002",
+      "exact_match": false,
+      "bleu4": 0.09542731851879939,
+      "rougeL": 0.3111111111111111,
+      "len_pred": 18,
+      "len_ref": 27
+    },
+    {
+      "id": "ex-003",
+      "exact_match": false,
+      "bleu4": 0.04057605618810272,
+      "rougeL": 0.20689655172413793,
+      "len_pred": 10,
+      "len_ref": 19
+    },
+    {
+      "id": "ex-004",
+      "exact_match": false,
+      "bleu4": 0.06861333074830776,
+      "rougeL": 0.3157894736842105,
+      "len_pred": 12,
+      "len_ref": 26
+    },
+    {
+      "id": "ex-005",
+      "exact_match": false,
+      "bleu4": 0.03531503355441372,
+      "rougeL": 0.21052631578947364,
+      "len_pred": 10,
+      "len_ref": 28
+    },
+    {
+      "id": "ex-006",
+      "exact_match": false,
+      "bleu4": 0.07974423230253493,
+      "rougeL": 0.35714285714285715,
+      "len_pred": 10,
+      "len_ref": 18
+    },
+    {
+      "id": "ex-007",
+      "exact_match": false,
+      "bleu4": 0.012931730698038341,
+      "rougeL": 0.06896551724137931,
+      "len_pred": 8,
+      "len_ref": 21
+    },
+    {
+      "id": "ex-008",
+      "exact_match": false,
+      "bleu4": 0.015622182101198383,
+      "rougeL": 0.19047619047619047,
+      "len_pred": 14,
+      "len_ref": 28
+    },
+    {
+      "id": "ex-009",
+      "exact_match": false,
+      "bleu4": 0.015761706576336954,
+      "rougeL": 0.10810810810810811,
+      "len_pred": 13,
+      "len_ref": 24
+    },
+    {
+      "id": "ex-010",
+      "exact_match": false,
+      "bleu4": 0.025443063777061698,
+      "rougeL": 0.17142857142857143,
+      "len_pred": 11,
+      "len_ref": 24
+    },
+    {
+      "id": "ex-011",
+      "exact_match": false,
+      "bleu4": 0.09879958216086066,
+      "rougeL": 0.30769230769230765,
+      "len_pred": 12,
+      "len_ref": 27
+    },
+    {
+      "id": "ex-012",
+      "exact_match": false,
+      "bleu4": 0.10182634488642414,
+      "rougeL": 0.2608695652173913,
+      "len_pred": 9,
+      "len_ref": 14
+    },
+    {
+      "id": "ex-013",
+      "exact_match": false,
+      "bleu4": 0.041827822751313096,
+      "rougeL": 0.1935483870967742,
+      "len_pred": 12,
+      "len_ref": 19
+    },
+    {
+      "id": "ex-014",
+      "exact_match": false,
+      "bleu4": 0.025999424973028214,
+      "rougeL": 0.125,
+      "len_pred": 12,
+      "len_ref": 20
+    },
+    {
+      "id": "ex-015",
+      "exact_match": false,
+      "bleu4": 0.06542540885608186,
+      "rougeL": 0.2857142857142857,
+      "len_pred": 8,
+      "len_ref": 13
+    },
+    {
+      "id": "ex-016",
+      "exact_match": false,
+      "bleu4": 0.04309579424088119,
+      "rougeL": 0.125,
+      "len_pred": 13,
+      "len_ref": 19
+    },
+    {
+      "id": "ex-017",
+      "exact_match": false,
+      "bleu4": 0.017928600661603712,
+      "rougeL": 0.07999999999999999,
+      "len_pred": 8,
+      "len_ref": 17
+    },
+    {
+      "id": "ex-018",
+      "exact_match": false,
+      "bleu4": 0.04496618206730099,
+      "rougeL": 0.25,
+      "len_pred": 8,
+      "len_ref": 16
+    },
+    {
+      "id": "ex-019",
+      "exact_match": false,
+      "bleu4": 0.03990502812023365,
+      "rougeL": 0.18181818181818185,
+      "len_pred": 13,
+      "len_ref": 20
+    },
+    {
+      "id": "ex-020",
+      "exact_match": false,
+      "bleu4": 0.07562380261607854,
+      "rougeL": 0.25,
+      "len_pred": 8,
+      "len_ref": 16
+    }
+  ]
+}
