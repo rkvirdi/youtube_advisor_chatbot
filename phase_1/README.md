@@ -188,3 +188,20 @@ phase_1/
 - What should I say in the first 10 seconds to hook viewers?
 - How should title and thumbnail work together?
 - Common intro mistakes that kill retention?
+
+## Evaluation
+
+to store the evaluation metrices as eval_reports directory:
+
+```bash
+
+ python eval.py --predictions ../../ground-truth/predictions.jsonl --outdir ../../eval_reports
+```
+
+## Testing
+
+Run all tests:
+
+```bash
+pytest tests
+```
